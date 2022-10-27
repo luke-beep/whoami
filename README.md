@@ -34,4 +34,4 @@ If you need to contact me you can do it by either gmail or discord.
 
 <div class="col-md-4 withdarker"><!----><p><span class="fas fa-user"></span> <strong>User  ID</strong>: <span class="resulth">629252242041733121</span></p><p><span class="fas fa-hashtag"></span> <strong>Username</strong>: <span class="resulth" style="color: rgb(228, 154, 255);"><span>LukeHjo#2611</span><!----></span></p><p><span class="fas fa-tags"></span></span></p><p><span class="fas fa-asterisk"></span> <strong>Created</strong>: <span class="resulth" style="color: rgb(129, 200, 134);">Thu, 03 Oct 2019 09:43:45 GMT+2</span></p><p><span class="fas fa-palette"></span> <span style="border-radius: 2px; vertical-align: sub; display: inline-block; height: 1.1rem; width: 4.5rem; background-color: rgb(59, 59, 59);"></span></span></p></div>
 
-[<img align="left" alt="LukeHjo's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:
+<img align="left" alt="LukeHjo's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
