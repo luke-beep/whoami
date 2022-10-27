@@ -6,7 +6,7 @@
   <img src="./assets/LukeHjo.png">
 </div>
 
-## About Me
+### About Me
 ---
 
 Hey! I'm LukeHjo. I am a software Engineer from Sweden. I enjoy creating applications, websites and programs.
