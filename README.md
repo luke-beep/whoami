@@ -14,11 +14,8 @@ Hey! I'm LukeHjo. I am a software Engineer from Sweden. I enjoy creating applica
 I am currently working on my latest project, [lukehjo.rocks](https://lukehjo.rocks). Where I work with flask, html, css, javascript, python and more.
 I'm also planning to add a portfolio to my website, where I will show off my current projects and upcoming projects.
 
----
-
 [<img align="left" alt="LukeHjo's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://lukehjo.rocks/)
 [<img align="left" alt="LukeHjo's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC_-YAH9OBLVVWom_wV4HHxw)
-
 
 ---
 ### Languages 
