@@ -32,4 +32,6 @@ I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
 
 If you need to contact me you can do it by either gmail or discord.
 
-LukeHjo#2611 | lukehjo@gmail.com 
+[LukeHjo#2611] | lukehjo@gmail.com 
+
+<div class="col-md-4 withdarker"><!----><p><span class="fas fa-user"></span> <strong>User  ID</strong>: <span class="resulth">629252242041733121</span></p><p><span class="fas fa-hashtag"></span> <strong>Username</strong>: <span class="resulth" style="color: rgb(228, 154, 255);"><span>LukeHjo#2611</span><!----></span></p><p><span class="fas fa-tags"></span> <strong>Badges</strong>: <!----><span><img src="/img/flags/7.png" id="bxo7" class="badgepng"><!----></span></p><p><span class="fas fa-asterisk"></span> <strong>Created</strong>: <span class="resulth" style="color: rgb(129, 200, 134);">Thu, 03 Oct 2019 09:43:45 UTC</span></p><p><span class="fas fa-palette"></span> <strong>Banner Color</strong>: <span class="resulth"><!----><span style="border-radius: 2px; vertical-align: sub; display: inline-block; height: 1.1rem; width: 4.5rem; background-color: rgb(59, 59, 59);"></span></span></p></div>
