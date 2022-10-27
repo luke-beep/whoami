@@ -18,7 +18,6 @@ I'm also planning to add a portfolio to my website, where I will show off my cur
 [<img align="left" alt="LukeHjo's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC_-YAH9OBLVVWom_wV4HHxw)
 
 
----
 
 ### Languages 
 
