@@ -20,7 +20,7 @@ I'm also planning to add a portfolio to my website, where I will show off my cur
 [<img align="left" alt="LukeHjo's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC_-YAH9OBLVVWom_wV4HHxw)
 
 
-
+---
 ### Languages 
 
 I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
@@ -28,7 +28,7 @@ I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
 ### Github Statistics
 
 ![LukeHjo's Github stats](https://github-readme-stats.vercel.app/api?username=luke-beep&show_icons=true&theme=tokyonight)
-![LukeHjo's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-beep&theme=radical)
+![LukeHjo's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-beep&theme=tokyonight)
 
 
 ### Discord Information
