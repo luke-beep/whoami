@@ -33,3 +33,4 @@ I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
 
 ### Discord Information
 
+<iframe src="https://discord.com/widget?id=978391764136255519&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
