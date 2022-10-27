@@ -1,7 +1,6 @@
 ### Hello!👋 I'm LukeHjo
 
 <div align="center">
-  ### I'm a student, developer, and gamer!
   <a href="https://lukehjo.rocks/" target="_blank">
     <img src="./assets/githubportfolio.gif">
   </a>
