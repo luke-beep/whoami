@@ -1,7 +1,7 @@
 ### Hello!👋 I'm LukeHjo
 <div align="center">
   <a href="https://lukehjo.rocks/" target="_blank">
-    <img src="./assets/githubportfolio.gif" alt="full browser demo gif"/>
+    <img src="./assets/githubportfolio.gif">
   </a>
 </div>
 
