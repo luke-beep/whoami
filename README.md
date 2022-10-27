@@ -35,7 +35,10 @@ I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
 
 
 
-<div align="center">
-<iframe src="https://discord.com/widget?id=978391764136255519&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div>
+<body>  
+  <div class="container">
+      </div>
+      <iframe src="https://discord.com/widget?id=978391764136255519&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    </div>
+  </div>  
 
