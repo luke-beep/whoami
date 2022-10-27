@@ -3,9 +3,9 @@
   <a href="https://lukehjo.rocks/" target="_blank">
     <img src="./assets/githubportfolio.gif">
   </a>
+  <img src="./assets/LukeHjo.png">
 </div>
 
-![intro](./assets/LukeHjo.png)
 
 
 Hey! I'm LukeHjo. I am a software Engineer from Sweden. I enjoy creating applications, websites and programs.
