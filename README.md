@@ -32,5 +32,4 @@ I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
 
 If you need to contact me you can do it by either gmail or discord.
 
-lukehjo@gmail.com
-LukeHjo#2611
+lukehjo@gmail.com | LukeHjo#2611
