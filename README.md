@@ -31,6 +31,9 @@ I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
 ![LukeHjo's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-beep&theme=tokyonight)
 
 
-### Discord Information
+### Contact Information
 
-![Discord](https://discord.com/widget?id=978391764136255519&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts")
+You can find me @
+
+lukehjo@gmail.com
+LukeHjo#2611 on Discord
