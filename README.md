@@ -7,6 +7,7 @@
 </div>
 
 ## About Me
+---
 
 Hey! I'm LukeHjo. I am a software Engineer from Sweden. I enjoy creating applications, websites and programs.
 I am currently working on my latest project, [LukeHjo's About me](https://lukehjo.rocks). Where I work with flask, html, css, javascript, python and more.
