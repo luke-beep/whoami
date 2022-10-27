@@ -11,7 +11,7 @@
 ---
 
 Hey! I'm LukeHjo. I am a software Engineer from Sweden. I enjoy creating applications, websites and programs.
-I am currently working on my latest project, [LukeHjo's About me](https://lukehjo.rocks). Where I work with flask, html, css, javascript, python and more.
+I am currently working on my latest project, [lukehjo.rocks](https://lukehjo.rocks). Where I work with flask, html, css, javascript, python and more.
 I'm also planning to add a portfolio to my website, where I will show off my current projects and upcoming projects.
 
 ---
@@ -27,7 +27,7 @@ I'm currently learning Python, HTML, CSS, Javascript, C# and bootstrap.
 
 ### Github Statistics
 
-![LukeHjo's Github stats](https://github-readme-stats.vercel.app/api?username=luke-beep&show_icons=true&theme=radical)
+![LukeHjo's Github stats](https://github-readme-stats.vercel.app/api?username=luke-beep&show_icons=true&theme=tokyonight)
 ![LukeHjo's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-beep&theme=radical)
 
 
