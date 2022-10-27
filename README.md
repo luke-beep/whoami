@@ -1,4 +1,4 @@
-### Hello!👋 I'm LukeHjo
+### Hello!👋 My name is LukeHjo
 
 <div align="center">
   <a href="https://lukehjo.rocks/" target="_blank">
