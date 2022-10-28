@@ -1,9 +1,6 @@
 ### Hello!👋 My name is LukeHjo
 
 <div align="center">
-  <a href="https://lukehjo.rocks/" target="_blank">
-    <img src="./assets/githubportfolio.gif">
-  </a>
   <img src="./assets/LukeHjo.png">
 </div>
 
