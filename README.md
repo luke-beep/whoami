@@ -1,7 +1,7 @@
 ### Hello!👋 My name is LukeHjo
 
 <div align="center">
-  <img src="./assets/LukeHjo.png">
+  <img src="./assets/register now.png">
 </div>
 
 ### About Me
