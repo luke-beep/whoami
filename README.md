@@ -30,3 +30,7 @@ If you need to contact me you can do it by either gmail or discord.
 
 [<img align="left" alt="LukeHjo's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:lukehjo@gmail.com)
 [<img align="left" alt="LukeHjo's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discord.com/users/629252242041733121)
+
+<div align="center">
+  <img src="./assets/wave.svg">
+</div>
