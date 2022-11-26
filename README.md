@@ -5,10 +5,10 @@
 </div>
 
 
-### Who am I?
+<h1 allign="center"
 
 <div align="center">
-  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/1039586210420629714?hideStatus=true&hideTimestamp=true&idleMessage=Hello!%20I'm%20luke-beep.%20A%20software%20engineer%20from%20Sweden.&borderRadius=22px)](https://discord.com/users/1039586210420629714)" />
+  <img src="https://lanyard.cnrad.dev/api/1039586210420629714?hideStatus=true&hideTimestamp=true&idleMessage=Hello!%20I'm%20luke-beep.%20A%20software%20engineer%20from%20Sweden.&borderRadius=22px)" />
   </div
 
 
