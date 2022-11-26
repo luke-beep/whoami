@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1039586210420629714?hideStatus=true&hideTimestamp=true&borderRadius=22px&idleMessage=LukeHjo#0001 is not doing anything at the moment." /> <!-- Credits to lanyard for making this readme img -->
+  <img src="https://lanyard.cnrad.dev/api/1039586210420629714?hideStatus=true&hideTimestamp=true&borderRadius=22px&idleMessage=LukeHjo#0001%20is%20not%20doing%20anything%20at%20the%20moment." /> <!-- Credits to lanyard for making this readme img -->
   <br />
   <br />
   </div
