@@ -4,10 +4,7 @@
   <img src="./assets/wave.svg">
 </div>
 
-<p align="center">LukeHjo</p>
-
----
-
+<h2 align="center">LukeHjo</h2>
 <p align="center">
 <a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="My Discord server" /></a>
 <a href="https://github.com/luke-beep"><img src="https://img.shields.io/badge/github-view-blue?style=flat-square&logo=github" alt="My Github profile" /></a>
