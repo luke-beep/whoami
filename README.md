@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello! I'm luke-beep, a civil engineer from Sweden.
+<p align="center">Hello, I'm luke-beep | A software engineer from Sweden</p>
 <p align="center">
 <a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="My Discord server" /></a>
 <a href="https://github.com/luke-beep"><img src="https://img.shields.io/badge/github-view-blue?style=flat-square&logo=github" alt="My Github profile" /></a>
@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1039586210420629714?hideStatus=true&hideTimestamp=true&borderRadius=22px&idleMessage=LukeHjo#0001%20is%20not%20doing%20anything%20at%20the%20moment." /> <!-- Credits to lanyard for making this readme img -->
+  <img src="https://lanyard.cnrad.dev/api/1039586210420629714?hideStatus=true&hideTimestamp=true&borderRadius=22px&idleMessage=Hello!%20I'm%20luke-beep.%20A%20software%20engineer%20from%20Sweden." /> <!-- Credits to lanyard for making this readme img -->
   <br />
   <br />
   </div
