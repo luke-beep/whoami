@@ -4,7 +4,7 @@
   <img src="./assets/wave.svg">
 </div>
 
-<h1 align="center">LukeHjo</h1>
+<p align="center">LukeHjo</p>
 
 ---
 
