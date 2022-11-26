@@ -23,3 +23,5 @@
   <img src="./assets/blob.svg"> 
 </div>
 
+
+<!-- inspired by 7ud -->
