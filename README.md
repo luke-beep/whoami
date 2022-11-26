@@ -16,6 +16,7 @@
   <img src="https://lanyard.cnrad.dev/api/1039586210420629714?hideStatus=true&hideTimestamp=true&borderRadius=22px&idleMessage=LukeHjo%20is%20not%20doing%20anything%20at%20the%20moment." /> <!-- Credits to lanyard for making this readme img -->
   <br />
   <br />
+  <br />
   </div
 
 
