@@ -4,7 +4,7 @@
   <img src="./assets/wave.svg">
 </div>
 
-<h1 align="center">Who am I?</h1>
+<p align="center">Who am I?</p>
 <p align="center">Luke-Beep | Software engineer from Sweden</p>
 <p align="center">
 <a href="https://discord.gg/ndjNzKCmff"><img src="https://img.shields.io/badge/discord-join-blue?style=flat-square&logo=discord" alt="My Discord server" /></a>
