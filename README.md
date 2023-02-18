@@ -1,9 +1,5 @@
 ### Hello!👋 My name is LukeHjo
 
-<div align="center">
-  <img src="./assets/wave.svg">
-</div>
-
 <h2 align="center" fontWeight="Bold">Who am I?</h2>
 <p align="center">Luke-Beep | Software engineer from Sweden</p>
 <p align="center">
@@ -20,9 +16,5 @@
   </div
 
 
-<div align="center">
-  <img src="./assets/blob.svg"> 
-</div>
 
 
-<!-- inspired by 7ud -->
