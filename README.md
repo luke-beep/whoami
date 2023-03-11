@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <img src="https://lanyard.cnrad.dev/api/1039586210420629714?hideStatus=true&hideTimestamp=true&borderRadius=22px&idleMessage=LukeHjo%20is%20not%20doing%20anything%20at%20the%20moment." /> <!-- Credits to lanyard for making this readme img -->
+  <a href="https://app.daily.dev/LukeHjo"><img src="https://api.daily.dev/devcards/bff7c01a71d54e2a8d9fd517cbde801f.png?r=fvo" width="400" alt="LukeHjo's Dev Card"/></a>
   <br />
   <br />
   <br />
