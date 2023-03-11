@@ -15,8 +15,8 @@
   </div>
 
 <h2 align="center" fontWeight="Bold">My Websites</h2>
-<a href="https://lukehjo.rocks">lukehjo.rocks | my website</a>
-<a href="https://dev.lukehjo.tech">dev.lukehjo.tech | my tech blog</a>
+<a href="https://lukehjo.rocks" align="center">lukehjo.rocks | my website</a>
+<a href="https://dev.lukehjo.tech" align="center">dev.lukehjo.tech | my tech blog</a>
 
 
 
