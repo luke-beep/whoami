@@ -9,8 +9,7 @@
 
 
 <div align="center">
-  <a href="https://app.daily.dev/LukeHjo"><img src="https://api.daily.dev/devcards/bff7c01a71d54e2a8d9fd517cbde801f.png?r=fvo" width="400" alt="LukeHjo's Dev Card"/></a>
-  <br />
+<a href="https://app.daily.dev/LukeHjo"><img src="https://api.daily.dev/devcards/bff7c01a71d54e2a8d9fd517cbde801f.png?r=wgj" width="400" alt="LukeHjo's Dev Card"/></a>  <br />
   <br />
   <br />
   </div
