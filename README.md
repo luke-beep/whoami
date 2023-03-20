@@ -13,9 +13,7 @@
   <br />
   <br />
   </div>
-  
-  <div><iframe src="https://github.com/sponsors/luke-beep/card" title="Sponsor luke-beep" height="225" width="600" style="border: 0;"></iframe></div>
-
+ 
 <h2 align="center" fontWeight="Bold">My Websites</h2>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.rocks" align="center">lukehjo.rocks | my website</a></h3>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://dev.lukehjo.tech" align="center">dev.lukehjo.tech | my tech blog</a></h3>
