@@ -14,7 +14,7 @@
   <br />
   <br />
   </div>
-     [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U4JVO4N)
+     [ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U4JVO4N)
 
 <h2 align="center" fontWeight="Bold">My Websites</h2>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.rocks" align="center">lukehjo.rocks | my website</a></h3>
