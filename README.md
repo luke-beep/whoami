@@ -10,8 +10,8 @@
 
 <div align="center">
 <a href="https://app.daily.dev/LukeHjo"><img src="https://api.daily.dev/devcards/bff7c01a71d54e2a8d9fd517cbde801f.png?r=wgj" width="400" alt="LukeHjo's Dev Card"/></a>
-    <a href="https://ko-fi.com/U6U4JVO4N"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="400" alt="LukeHjo's Kofi Card"/></a>
     <br />
+        <a href="https://ko-fi.com/U6U4JVO4N"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="400" alt="LukeHjo's Kofi Card"/></a>
   <br />
   <br />
   </div>
