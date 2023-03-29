@@ -10,12 +10,12 @@
 
 <div align="center">
 <a href="https://app.daily.dev/LukeHjo"><img src="https://api.daily.dev/devcards/bff7c01a71d54e2a8d9fd517cbde801f.png?r=wgj" width="400" alt="LukeHjo's Dev Card"/></a>
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U4JVO4N)
     <br />
   <br />
   <br />
   </div>
- 
+     [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U4JVO4N)
+
 <h2 align="center" fontWeight="Bold">My Websites</h2>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.rocks" align="center">lukehjo.rocks | my website</a></h3>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://dev.lukehjo.tech" align="center">dev.lukehjo.tech | my tech blog</a></h3>
