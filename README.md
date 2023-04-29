@@ -1,4 +1,4 @@
-<img src="assets/DiscordDev.png" alt="My Github profile" align="center" />
+<p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
 <h1 align="center" fontWeight="Bold"> Hello!👋 My name is LukeHjo</h1>
 
 <h2 align="center" fontWeight="Bold">Who am I?</h2>
