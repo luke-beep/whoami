@@ -1,7 +1,4 @@
 # **Hello!👋 My name is LukeHjo**
-
----
-
 <p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
 
 
