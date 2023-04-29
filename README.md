@@ -3,7 +3,6 @@
 
 
 <h1 align="center" fontWeight="Bold">Who am I?</h1>
-
 -------
 
 <h3 align="center">Luke-Beep | Software engineer from Sweden</h3>
