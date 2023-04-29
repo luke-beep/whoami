@@ -2,7 +2,7 @@
 <p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
 
 
-### **Who am I?**
+## **Who am I?**
 
 ---
 
