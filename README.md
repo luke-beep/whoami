@@ -1,3 +1,4 @@
+<a href="https://github.com/luke-beep"><img src="assets/DiscordDev.png" alt="My Github profile" /></a>
 <h1 align="center" fontWeight="Bold"> Hello!👋 My name is LukeHjo</h1>
 
 <h2 align="center" fontWeight="Bold">Who am I?</h2>
@@ -20,10 +21,3 @@
 <h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.rocks" align="center">lukehjo.rocks | my website</a></h3>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://dev.lukehjo.tech" align="center">dev.lukehjo.tech | my tech blog</a></h3>
 
-
-
-<style>
-h1 {
-  border-bottom: none;
-}
-</style>
