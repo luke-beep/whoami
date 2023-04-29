@@ -21,7 +21,15 @@
   <br />
   </div>
 
-<h2 align="center" fontWeight="Bold">My Websites</h2>
-<h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.rocks" align="center">lukehjo.rocks | my website</a></h3>
-<h3 align="center" fontWeight="Bold">Visit <a href="https://dev.lukehjo.tech" align="center">dev.lukehjo.tech | my tech blog</a></h3>
+<h3 align="center" fontWeight="Bold">Projects</h3>
+
+-------
+
+<h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.rocks" align="center">lukehjo.rocks</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://dev.lukehjo.tech" align="center">dev.lukehjo.tech</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://forum.lukehjo.tech" align="center">forum.lukehjo.tech</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.tech" align="center">lukehjo.tech</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://voltflx.com" align="center">voltflx.com</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://discord.voltflx.com/" align="center">discord.voltflx.com</a></h3>
+
 
