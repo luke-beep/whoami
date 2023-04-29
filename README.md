@@ -2,7 +2,7 @@
 <p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
 
 
-# Who am I?
+## Who am I?
 -------
 
 <h3 align="center">Luke-Beep | Software engineer from Sweden</h3>
