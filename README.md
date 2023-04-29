@@ -2,7 +2,7 @@
 <p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
 
 
-<p align="center" fontWeight="Bold">Who am I?</p>
+<h1 align="center" fontWeight="Bold" fontsize="30">Who am I?</h1>
 
 -------
 
