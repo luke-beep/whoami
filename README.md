@@ -1,5 +1,6 @@
-<p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
 <h1 align="center" fontWeight="Bold"> Hello!👋 My name is LukeHjo</h1>
+<p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
+
 
 <h2 align="center" fontWeight="Bold">Who am I?</h2>
 <p align="center">Luke-Beep | Software engineer from Sweden</p>
