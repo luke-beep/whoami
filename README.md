@@ -51,5 +51,5 @@
 
 <p>I'm a Civil Engineer with a passion for programming. Always learning and exploring the latest tech trends to make a positive impact with innovative solutions. If you'd like to sponsor my work you can do so by clicking the button below.</p>
 
-<p align="center"><a href="https://github.com/sponsors/luke-beep"><img src="https://img.shields.io/github/sponsors/luke-beep" alt="Github Sponsor" /></a></p>
+<p align="center"><a href="https://github.com/sponsors/luke-beep"><img src="https://img.shields.io/github/sponsors/luke-beep?style=flat-square" alt="Github Sponsor" /></a></p>
 
