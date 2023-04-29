@@ -1,10 +1,10 @@
-# **Hello!👋 My name is LukeHjo**
+<h3 align="center" fontWeight="Bold"> Hello!👋 My name is LukeHjo</h3>
 <p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
 
 
-### **Who am I?**
+<h1 align="center" fontWeight="Bold" fontsize="30">Who am I?</h1>
 
----
+-------
 
 <h3 align="center">Luke-Beep | Software engineer from Sweden</h3>
 <p align="center">
