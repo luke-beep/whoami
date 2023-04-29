@@ -22,3 +22,8 @@
 
 
 
+<style>
+h1 {
+  border-bottom: none;
+}
+</style>
