@@ -21,7 +21,7 @@
   <br />
   </div>
 
-<h3 align="center" fontWeight="Bold">Projects</h3>
+<h3 align="center" fontWeight="Bold">Websites</h3>
 
 -------
 
@@ -31,5 +31,19 @@
 <h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.tech" align="center">lukehjo.tech</a></h3>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://voltflx.com" align="center">voltflx.com</a></h3>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://discord.voltflx.com/" align="center">discord.voltflx.com</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://status.voltflx.com/" align="center">status.voltflx.com</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://status.lukehjo.tech/" align="center">status.lukehjo.tech</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://status.lukehjo.rocks/" align="center">status.lukehjo.rocks</a></h3>
+
+<h3 align="center" fontWeight="Bold">Projects</h3>
+
+-------
+
+<h3 align="center" fontWeight="Bold">Visit <a href="https://github.com/luke-beep/guide-to-optimizing-windows" align="center">An in-depth guide on optimizations for windows</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://github.com/luke-beep/bypass-amsi-powershell" align="center">AMSI Bypass</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://github.com/luke-beep/ProcLogger" align="center">Process Logger</a></h3>
+
+
+
 
 
