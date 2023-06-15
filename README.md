@@ -34,6 +34,7 @@
 <h3 align="center" fontWeight="Bold">Visit <a href="https://status.voltflx.com/" align="center">status.voltflx.com</a></h3>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://status.lukehjo.tech/" align="center">status.lukehjo.tech</a></h3>
 <h3 align="center" fontWeight="Bold">Visit <a href="https://status.lukehjo.rocks/" align="center">status.lukehjo.rocks</a></h3>
+<h3 align="center" fontWeight="Bold">Visit <a href="https://lukehjo.dev/" align="center">lukehjo.dev</a></h3>
 
 <h3 align="center" fontWeight="Bold">Projects</h3>
 
