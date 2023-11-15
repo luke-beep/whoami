@@ -24,7 +24,7 @@
 - TypeScript, Scala, Rust, Dart, Lua, Perl, Haskell, F#, Julia, Fortran, Pascal, Ada
 
 #### c. Assembly Languages:
-- Assembly i386, Assembly Intel64 (Intel Syntax), Assembly AT&T (AT&T Syntax), Assembly MIPS, Assembly ARM64 (ARMv8)
+- Assembly i386, Assembly Intel64 (Intel Syntax), Assembly AT&T (AT&T Syntax), Assembly MIPS, Assembly ARM64 (ARMv8), Assembly LC3
 
 #### d. Web Development and Markup Languages:
 - HTML, CSS, Less, Sass, Markdown, YAML, JSON, BSON, XML, TOML, INI, CSV, GraphQL, SQL, WebAssembly, LaTeX 
