@@ -51,7 +51,7 @@
 - Unity, Unreal Engine, Godot, MonoGame, Three.js
 
 #### Backend & API Development:
-- Spring Boot, Express, FastAPI, ASP.NET Core, Django REST Framework, Flask-RESTful, NestJS
+- Spring Boot, Express, FastAPI, ASP.NET Core, Django, REST Framework, Flask-RESTful, NestJS
 
 #### Desktop Application Development:
 - Electron, Qt, WPF, JavaFX, Swing, WinForms, Avalonia, WinUI 2, WinUI 3
