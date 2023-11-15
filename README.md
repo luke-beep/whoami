@@ -1,5 +1,5 @@
 <h3 align="center" fontWeight="Bold"> Hello!👋 My name is LukeHjo</h3>
-<p align="center"><img src="assets/DiscordDev.png" alt="My Github profile" align="center" /></p>
+<p align="center"><img src="assets/LukeHjo.gif" alt="My Github profile" align="center" /></p>
 
 
 <h3 align="center" fontWeight="Bold" fontsize="30">Who am I?</h3>
