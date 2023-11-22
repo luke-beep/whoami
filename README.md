@@ -128,6 +128,7 @@
 - [Algorithm Visualizer](https://github.com/luke-beep/AlgorithmVisualizer)
 - [qLitePhotoViewer](https://github.com/luke-beep/qLitePhotoViewer)
 - [qLiteVM](https://github.com/luke-beep/qLiteVM)
+- [LukeHjo's Dev Log](https://tech.lukehjo.dev)
 
 ---
 
