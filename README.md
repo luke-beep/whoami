@@ -6,186 +6,319 @@
 ---
 
 ### 📝 About Me
-  I'm Azrael, a passionate software developer with a focus on creating impactful and efficient solutions. I love exploring new technologies and building projects that challenge me to grow. [What does Azrael mean to me?](#what-does-azrael-mean-to-me)
+
+Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ driven by a deep curiosity about how **technology** 🚀 can be harnessed to solve real-world problems. With a background in both *computer science* 👨‍💻 and *programming*, I find myself at the intersection of coding and creativity, where every line of code is a step towards innovation.
+
+**Early Beginnings:** 🌟 My journey in technology began in my early teens when I discovered the world of *programming*. Fascinated by the potential of code to bring ideas to life, I spent countless hours learning languages like **C** and **C#**, which later became the foundation of my professional skill set.
+
+**Philosophy:** 💡 I believe that software development is not just about writing code; it's about crafting solutions that have a **lasting impact**. This philosophy drives me to continually *learn* 📚 and *evolve* 🌱, ensuring that my work not only solves problems but also contributes positively to the community.
+
+**Current Focus:** 🔍 Currently, I am deeply engaged in exploring **computer internals** ☁️ and **hardware** 🤖. My goal is to integrate these technologies to create **scalable**, **efficient**, and **intelligent** systems.
+
+**Engagement in Tech Discussions:** 🗣️ While I may not participate in competitions, I actively engage in various *tech* and *programming groups*. Sharing knowledge, debating ideas, and staying connected with the latest trends in technology are aspects I thoroughly enjoy.
+
+**Personal Projects:** 👨‍💻 My personal projects often reflect my interests in *data science* 📊 and *info security* 🔒. From developing tools that enhance privacy to creating algorithms that analyze complex data, these projects are a testament to my commitment to lifelong learning and professional growth.
+
+**Future Aspirations:** Looking ahead, I aim to contribute to *open-source* projects and *tech communities* more actively. I believe in the power of collaboration and open knowledge sharing 🤝 to drive innovation in the tech industry.
+
+**Tech Blogging:** ✍️ I regularly write on my tech blog, covering topics from latest tech trends to deep dives into coding challenges.
+
+**My Name:** 📛 I chose the name **Azrael** as a representation of my personal philosophy and values. You can read more about what the name means to me [here](#what-does-azrael-mean-to-me).
 
 ---
 
 ### 📊 GitHub Stats
-![LukeHjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke-beep&show_icons=true&theme=radical)
+![Azrael's GitHub stats](https://github-readme-stats.vercel.app/api?username=luke-beep&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-beep&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luke-beep&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=luke-beep&theme=radical)
 
 ---
 
 ### 💻 Programming Languages
 
-#### a.  General-Purpose Programming Languages:
-- Python, JavaScript, Java, C++, C#, C, PHP, Ruby, Go, Swift, Kotlin
+As a technology enthusiast and developer, my expertise spans across a wide range of programming languages. Each language I've learned has significantly contributed to my skill set, allowing me to tackle various challenges in software development, system programming, web development, and more. This list represents the programming languages I use to bring ideas to life and solve complex problems in the world of technology.
 
-#### b. Specialized or System Programming Languages:
-- TypeScript, Scala, Rust, Dart, Lua, Perl, Haskell, F#, Julia, Fortran, Pascal, Ada
+<details>
 
-#### c. Assembly Languages:
-- Assembly i386, Assembly Intel64 (Intel Syntax), Assembly AT&T (AT&T Syntax), Assembly MIPS, Assembly ARM64 (ARMv8), Assembly LC3
+<summary>🔍 Click to expand!</summary>
 
-#### d. Web Development and Markup Languages:
-- HTML, CSS, Less, Sass, Markdown, YAML, JSON, BSON, XML, TOML, INI, CSV, GraphQL, SQL, WebAssembly, LaTeX 
 
-#### e. Scripting and Query Languages:
-- PowerShell, Bash, Shell, SQL, Batch, VBScript, VB.NET
+#### 🛠️ *a. General-Purpose Programming Languages:*
+- `Python` 🐍, `Java` ☕, `C++`, `C#` 🛡️, `C`, `PHP` 🐘, `Ruby` 💎, `Go` 🏃, `Swift` 🐦, `Kotlin` 📱, `Dart` 🎯, `Rust` 🦀, `R` 🔢, `Haskell` 🧙‍♂️, `Objective-C` 🍏, `MATLAB` 📊, `COBOL` 🏢, `Elixir` 💧, `Lisp` 🔮, `Smalltalk` 💬
 
-#### f. Regular Expressions:
-- Regex
+#### 💻 *b. Specialized or System Programming Languages:*
+- `TypeScript` 📜, `Scala` 🌐, `Rust` 🦀, `Dart` 🎯, `Lua` 🌙, `Perl` 🐪, `Haskell` 🧙‍♂️, `F#` 🔢, `Julia` 📈, `Fortran` 🚀, `Pascal` 📚, `Ada` 🖥️, `JavaScript` 🌟
+
+#### 🔧 *c. Assembly Languages:*
+- `Assembly i386` 📚, `Assembly Intel64 (Intel Syntax)` 🖥️, `Assembly MIPS` 🧩, `Assembly ARM64 (ARMv8)` 💪, `Assembly LC3` 🧠
+
+#### 🌍 *d. Web Development and Markup Languages:*
+- `HTML` 📃, `CSS` 🎨, `Less` ➖, `Sass` ✂️, `Markdown` 📝, `YAML` 🗃️, `JSON` 📊, `BSON` 🗂️, `XML` 📰, `TOML` 📑, `INI` 🔧, `CSV` 📊, `GraphQL` 🔗, `SQL` 🗄️, `WebAssembly` 🧩, `LaTeX` 📜
+
+#### 📜 *e. Scripting and Query Languages:*
+- `PowerShell` 💪, `Bash` 🐚, `Shell` 🐚, `SQL` 🗄️, `Batch` 🧺, `VBScript` 📜, `VB.NET` 🖥️, `Regex` 🧩, `Wolfram` 🐺
+
+</details>
 
 ---
 
 ### 🛠️ Frameworks 
 
+My experience spans a diverse range of frameworks and technologies, enabling me to build robust and scalable applications across various domains.
+
+<details>
+<summary>🔍 Click to expand!</summary>
+
 #### Web Development:
-- React, Node.js, Django, Angular, Vue.js, Express.js, Flask, Spring, Laravel, Ruby on Rails
-- ASP.NET Core, Ember.js, Backbone.js, Svelte, Next.js, Nuxt.js, Jekyll
-- Symfony, CakePHP, Bootstrap, Materialize
+- `React`, `Node.js`, `Django`, `Angular`, `Vue.js`, `Express.js`, `Flask`, `Spring`, `Laravel`, `Ruby on Rails`
+- `ASP.NET Core`, `Ember.js`, `Backbone.js`, `Svelte`, `Next.js`, `Nuxt.js`, `Jekyll`
+- `Symfony`, `CakePHP`, `Bootstrap`, `Materialize`
 
 #### Mobile App Development:
-- React Native, Flutter, Xamarin, NativeScript, Swift UI, Kotlin Multiplatform, .NET MAUI
+- `React Native`, `Flutter`, `Xamarin`, `NativeScript`, `Swift UI`, `Kotlin Multiplatform`, `.NET MAUI`
 
 #### Game Development:
-- Unity, Unreal Engine, Godot, MonoGame, Three.js
+- `Unity`, `Unreal Engine`, `Godot`, `MonoGame`, `Three.js`
 
 #### Backend & API Development:
-- Spring Boot, Express, FastAPI, ASP.NET Core, Django, REST Framework, Flask-RESTful, NestJS
+- `Spring Boot`, `Express`, `FastAPI`, `ASP.NET Core`, `Django`, `REST Framework`, `Flask-RESTful`, `NestJS`
 
 #### Desktop Application Development:
-- Electron, Qt, WPF, JavaFX, Swing, WinForms, Avalonia, WinUI 2, WinUI 3
+- `Electron`, `Qt`, `WPF`, `JavaFX`, `Swing`, `WinForms`, `Avalonia`, `WinUI 2`, `WinUI 3`
 
 #### Other Specialized Frameworks:
-- GraphQL, Socket.IO, Redux, Apache Hadoop, Apache Spark, Apache Kafka
+- `GraphQL`, `Socket.IO`, `Redux`, `Apache Hadoop`, `Apache Spark`, `Apache Kafka`
+
+
+</details>
 
 ---
 
 ### 🚀 Data Science & Machine Learning
 
+I'm particularly fascinated by the power of data 📊 in transforming insights into actionable intelligence 💡.
+
+<details>
+<summary>🔍 Click to expand!</summary>
+
 - **Machine Learning Frameworks and Libraries:**
-  - TensorFlow, PyTorch
-  - NumPy, SciPy, Seaborn
+  - `TensorFlow` 🤖, `PyTorch` 🔥
+  - `NumPy` 🔢, `SciPy` 🧪, `Seaborn` 📈
 
 - **Azure Machine Learning and Data Services:**
-  - Azure Machine Learning Service: A cloud service for training, deploying, automated machine learning, and tracking machine learning models.
-  - Azure Databricks: An Apache Spark-based analytics service optimized for Azure.
-  - Azure Synapse Analytics: An analytics service that brings together enterprise data warehousing and Big Data analytics.
-  - Azure Cognitive Services: A collection of APIs that use AI to solve complex problems (like vision, speech, language, decision, etc.).
-  - Azure Data Lake Storage: Highly scalable data storage and analytics service.
-  - Azure HDInsight: A cloud service that makes it easy to process massive amounts of data with Hadoop, Spark, Hive, LLAP, Kafka, Storm, R, and more.
-  - Azure SQL Data Warehouse: A cloud-based Enterprise Data Warehouse (EDW) that uses Massively Parallel Processing (MPP) to quickly run complex queries across large sets of data.
+  - `Azure Machine Learning Service`: A cloud service for training, deploying, automated machine learning, and tracking machine learning models. 🌐
+  - `Azure Databricks`: An Apache Spark-based analytics service optimized for Azure. ⚡
+  - `Azure Synapse Analytics`: An analytics service that brings together enterprise data warehousing and Big Data analytics. 💾
+  - `Azure Cognitive Services`: A collection of APIs that use AI to solve complex problems (like vision, speech, language, decision, etc.). 🧠
+  - `Azure Data Lake Storage`: Highly scalable data storage and analytics service. 🗄️
+  - `Azure HDInsight`: A cloud service that makes it easy to process massive amounts of data with Hadoop, Spark, Hive, LLAP, Kafka, Storm, R, and more. 📚
+  - `Azure SQL Data Warehouse`: A cloud-based Enterprise Data Warehouse (EDW) that uses Massively Parallel Processing (MPP) to quickly run complex queries across large sets of data. 🏢
+
+
+</details>
 
 ---
 
-### 🧰 Tools
+### 🧰 Tools & Technologies
 
-#### Version Control and Collaboration:
-- Git, Bitbucket, GitHub, GitLab, SourceTree, SourceForge, Azure DevOps, AUR
+My toolkit includes a variety of tools and technologies that enhance my development workflow and project management.
 
-#### Containerization and Virtualization:
-- Docker, Kubernetes, VirtualBox, VMware, Hyper-V, Docker Swarm, OpenShift
+<details>
+<summary>🔍 Click to expand!</summary>
 
-#### Cloud Platforms and Services:
-- AWS, Azure, Google Cloud Platform, Oracle Cloud, IBM Cloud, Heroku, DigitalOcean, Linode, Cloudflare, Netlify, Vercel, Firebase, MongoDB Atlas, Redis Cloud, Cloudinary, Auth0, Twilio, Stripe, PayPal
+- **Version Control & Collaboration:** 
+  - `Git` 🔄
+  - Platforms like `GitHub`, `GitLab`, `Bitbucket` 🤝
+  - `Azure DevOps`, `SourceTree` for repository management 🗂️
 
-#### Continuous Integration/Continuous Deployment:
-- Jenkins, Travis CI, CircleCI, GitLab CI, GitHub Actions, Azure DevOps, Drone
+- **Containerization & Virtualization:** 
+  - `Docker` 🐳
+  - Orchestration with `Kubernetes` ⚙️
+  - Virtualization using `VirtualBox`, `VMware`, `Hyper-V` 📦
 
-#### Configuration Management:
-- Ansible, Puppet, Chef, SaltStack, Terraform, CloudFormation, PowerShell DSC
+- **Cloud Platforms & Services:** 
+  - `AWS`, `Azure`, `Google Cloud Platform` ☁️
+  - Cloud-based tools like `Heroku`, `DigitalOcean`, `Firebase` 🌐
 
-#### Monitoring and Logging:
-- Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Splunk, Datadog, New Relic, Nagios, Zabbix, NLog, Serilog, Sentry
+- **CI/CD & Automation:** 
+  - `Jenkins`, `Travis CI`, `CircleCI`, `GitHub Actions` for CI/CD pipelines 🚀
+  - Configuration management with `Ansible`, `Terraform`, `CloudFormation`, `Chef` 🔧
 
-#### Database Management:
-- MySQL, PostgreSQL, MongoDB, Redis, Microsoft SQL Server, SQLite, Cassandra, MariaDB, InfluxDB, Firebase, NoSQL, LevelDB
+- **Monitoring & Logging:** 
+  - Tools like `Prometheus`, `Grafana`, `ELK Stack` (Elasticsearch, Logstash, Kibana) 👁️
+  - `Splunk`, `Datadog`, `New Relic` for performance analysis 📊
 
-#### Development and IDE Tools:
-- Visual Studio Code, IntelliJ IDEA, Eclipse, PyCharm, WebStorm, Atom, Sublime Text, Vim, Emacs, Xcode, Vim, Neovim, RustRover, CLion, CLion Nova, Aqua, PhpStorm, DataGrip, GoLand, RubyMine, Rider, AppCode, Android Studio, Visual Studio, Visual Studio for Mac, Visual Studio Code Insiders, Visual Studio Code - OSS, MPS, DataSpell
+- **Database Management:** 
+  - SQL and NoSQL databases like `MySQL`, `PostgreSQL`, `MongoDB`, `Redis` 🗄️
+  - `Microsoft SQL Server`, `SQLite`, `Cassandra` 💾
 
-#### Testing and Quality Assurance:
-- Selenium, JUnit, TestNG, Mocha, Jest, Postman, NUnit
+- **Development & IDE Tools:** 
+  - `Visual Studio Code`, `CLion`, `PyCharm`, `WebStorm`, `Visual Studio 2022`, `RustRover`, `RubyMine`, `GoLand`, `Rider` 💻
+  - Text editors like `Vim` and `Neovim` ✏️
 
-#### Networking and Security:
-- Wireshark, OpenSSL, Nmap, Metasploit, Burp Suite, tcpdump, Fiddler, Nessus, FortiGate, pfSense
+- **Testing & Quality Assurance:** 
+  - `Selenium`, `JUnit`, `Jest` for automated testing 🧪
+  - `NUnit`, `Postman` for API testing ✅
 
-#### Data Analysis and Business Intelligence:
-- Power BI, Apache Spark, Hadoop
+- **Networking & Security:** 
+  - `Wireshark`, `OpenSSL`, `Nmap` for network analysis 🔍
+  - Cybersecurity tools like `Metasploit`, `Nessus` 🔒
 
-#### Scripting and Automation:
-- PowerShell, Bash, Python, Perl, Ruby, Node.js, AutoHotkey, Shell Scripting
+- **Data Analysis & Business Intelligence:** 
+  - `Power BI`, `Hadoop` for data analysis 📈
 
-#### Miscellaneous Tools:
-- Slack, Trello, Jira, Zoom, Microsoft Teams, Notion
+- **Scripting & Automation:** 
+  - `PowerShell`, `Bash`, `Python`, `Node.js`, `Shell`, `Perl`, `Make`, `GitHub Actions` for automation scripting 🤖
+
+- **Miscellaneous Tools:** 
+  - `Slack`, `Trello`, `Jira`, `Microsoft Teams` for collaboration and project management 🛠️
+  - `Notion` for personal and professional organization 📋
+
+
+</details>
 
 ---
 
 ### 📚 Projects
-- [All about Windows](https://github.com/luke-beep/all-about-windows)
-- [HoneCTRL](https://github.com/luke-beep/HoneCTRL)
-- [Windows Image Comparator](https://github.com/luke-beep/WindowsImageComparator)
-- [Algorithm Visualizer](https://github.com/luke-beep/AlgorithmVisualizer)
-- [qLitePhotoViewer](https://github.com/luke-beep/qLitePhotoViewer)
-- [qLiteVM](https://github.com/luke-beep/qLiteVM)
-- [LukeHjo's Dev Log](https://tech.lukehjo.dev)
+
+I have worked on a variety of projects that reflect my skills and interests in technology.
+
+- **[All about Windows](https://github.com/luke-beep/all-about-windows)** 🪟: A comprehensive collection of resources for Windows users, offering tips, tricks, and in-depth guides.
+
+- **[HoneCTRL](https://github.com/luke-beep/HoneCTRL)** ⚙️: An innovative application that allows users to customize and enhance the functionality of Windows 10 & 11.
+
+- **[Windows Image Comparator](https://github.com/luke-beep/WindowsImageComparator)** 🖼️: A tool designed for efficient image comparison and management, specifically for Windows environments.
+
+- **[Algorithm Visualizer](https://github.com/luke-beep/AlgorithmVisualizer)** 📊: An interactive tool that helps in visualizing algorithms, making complex concepts easier to understand.
+
+- **[qLitePhotoViewer](https://github.com/luke-beep/qLitePhotoViewer)** 🌄: A lightweight and user-friendly photo viewer, optimized for performance on Windows.
+
+- **[qLiteVM](https://github.com/luke-beep/qLiteVM)** 💻: A streamlined virtual machine solution for Windows, focusing on simplicity and ease of use.
+
+- **[LukeHjo's Dev Log](https://tech.lukehjo.dev)** ✍️: My personal tech blog where I share insights, experiences, and thoughts on various technology-related topics.
+
+Each of these projects represents a part of my journey in software development, showcasing my passion for creating tools and applications that enhance user experience and productivity.
 
 ---
 
 ### 💡 Interests
-- Technology Trends
-- Open Source Contribution 
-- Hardware-to-Software Interfacing 
-- Machine Learning (ML)
-- Artificial Intelligence (AI)
-- Data Science (Data Mining, Data Analysis, etc.)
-- Data Visualization (Algorithms, Graphs, etc.)
-- Web Development (ASP.NET Core, React, Node.js, etc.)
-- Cybersecurity (Offensive/Defensive)
-- Cryptography (Encryption/Decryption)
-- Quantum Computing 
-- Blockchain 
-- Internet of Things (IoT)
-- Cloud Computing 
-- DevOps (Development & Operations)
-- DevEx (Developer Experience)
-- Automation (CI/CD)
-- Scripting (Bash, PowerShell, etc.)
-- Kernels (Linux, Windows NT Kernel, Mach, etc.)
-- Operating Systems (Debian, Windows NT, macOS, etc.)
-- Computer Architecture (x86, ARM, MIPS, etc.)
-- Computer Networking (TCP/IP, OSI Model, etc.)
-- Computer Hardware (CPU, GPU, RAM, etc.)
-- Computer Software (IDEs, Text Editors, etc.)
-- Computer Engineering (Electrical Engineering, etc.)
-- Standards (ISO, IEEE, ISA, etc.)
+
+My interests in technology are broad and ever-evolving, reflecting my enthusiasm for the field's dynamic nature. Here's a deeper look into areas that I enjoy researching.
+
+<details>
+<summary>🔍 Click to expand!</summary>
+
+- **Technology Trends** 🌐: Staying ahead of the latest advancements in tech, from emerging software to innovative hardware solutions.
+
+- **Open Source Contribution** 👐: Actively contributing to open-source projects, believing in the collaborative power of community-driven development.
+
+- **Hardware-to-Software Interfacing** 🔌: Exploring the integration of hardware and software, particularly interested in IoT and embedded systems.
+
+- **Machine Learning (ML)** 🤖 & **Artificial Intelligence (AI)** 🧠: Diving into the realms of ML and AI, exploring their potential to solve complex problems and enhance human capabilities.
+
+- **Data Science** 📊: Engaging in data mining and analysis, uncovering insights and trends from vast datasets.
+
+- **Data Visualization** 📈: Creating intuitive visual representations of data to make complex information accessible and understandable.
+
+- **Web Development** 💻: Developing web applications using technologies like ASP.NET Core, React, and Node.js, focusing on both frontend and backend development.
+
+- **Cybersecurity** 🔒: Exploring both offensive and defensive aspects of cybersecurity, understanding vulnerabilities, and developing robust security measures.
+
+- **Cryptography** 🔐: Fascinated by the science of encryption and decryption, ensuring data security and privacy.
+
+- **Quantum Computing** ⚛️: Intrigued by the potential of quantum computing to revolutionize various fields, including cryptography and complex problem-solving.
+
+- **Blockchain** 🌐: Interested in blockchain technology for its applications beyond cryptocurrencies, exploring its use in securing digital transactions and decentralizing systems.
+
+- **Internet of Things (IoT)** 📱: Experimenting with IoT devices and systems, integrating them into everyday life for enhanced connectivity and automation.
+
+- **Cloud Computing** ☁️: Utilizing cloud platforms for scalable and efficient computing resources, exploring cloud-based solutions for various applications.
+
+- **DevOps** 🛠️: Implementing DevOps practices for streamlined development and operations, focusing on automation, CI/CD, and efficient workflows.
+
+- **Developer Experience (DevEx)** 🎨: Passionate about improving the developer experience through better tools, environments, and practices.
+
+- **Automation (CI/CD)** ⚙️: Automation in software development, particularly in continuous integration and continuous deployment; also known as CI/CD.
+
+- **Scripting** 📜: Writing scripts in Bash, PowerShell, and other languages to automate tasks and processes.
+
+- **Kernel Development** 💽: Diving into the core of operating systems by exploring various kernels like Linux, Windows NT, and Mach.
+
+- **Operating Systems** 💻: Proficient in operating systems like Debian, Windows 11, and macOS, understanding their architecture and capabilities.
+
+- **Computer Architecture** 🏛️: Studying architectures like x86, ARM, and MIPS, understanding how computer systems are fundamentally built and operated.
+
+- **Computer Networking** 🌍: Exploring TCP/IP, OSI models, and other networking concepts, understanding how data is transmitted and managed across networks.
+
+- **Computer Hardware** 🖥️: Interested in the workings of CPUs, GPUs, and RAM, understanding their roles in computing performance.
+
+- **Computer Software** 👨‍💻: Using various IDEs and text editors, continuously exploring new tools and technologies to enhance software development; related to DevEx.
+
+- **Computer Engineering** ⚡: Bridging the gap between electrical engineering and computer science, focusing on the hardware aspect of computing.
+
+- **Standards** 📏: Following and contributing to standards like ISO, IEEE, and ISA, ensuring quality and consistency in technology and engineering.
+
+</details>
 
 ---
 
 ### 📚 Lists
-- [Themes & Fonts](https://github.com/stars/luke-beep/lists/themes-fonts)
-- [Software Development](https://github.com/stars/luke-beep/lists/software-development)
-- [Privacy & Security](https://github.com/stars/luke-beep/lists/privacy-security)
-- [Microsoft](https://github.com/stars/luke-beep/lists/microsoft)
-- [Modifications](https://github.com/stars/luke-beep/lists/modifications)
-- [Machine Learning](https://github.com/stars/luke-beep/lists/machine-learning)
-- [Awesome](https://github.com/stars/luke-beep/lists/awesome)
-- [Miscellaneous](https://github.com/stars/luke-beep/lists/miscellaneous)
-- [Networking](https://github.com/stars/luke-beep/lists/networking)
+
+I curate various lists on GitHub to organize resources and repositories that I find interesting and useful. Here's a quick overview of the lists I maintain:
+
+- **[Themes & Fonts](https://github.com/stars/luke-beep/lists/themes-fonts)** 🎨: A collection of themes and fonts that I like, featuring aesthetically pleasing and functional design choices.
+
+- **[Software Development](https://github.com/stars/luke-beep/lists/software-development)** 💻: Repositories related to software development, encompassing tools, libraries, and frameworks that enhance coding efficiency and capabilities.
+
+- **[Privacy & Security](https://github.com/stars/luke-beep/lists/privacy-security)** 🔒: Focused on privacy and security-related repositories, this list includes tools and resources for securing digital assets and maintaining privacy.
+
+- **[Microsoft](https://github.com/stars/luke-beep/lists/microsoft)** ⚙️: A compilation of repositories related to Microsoft services and products, highlighting my interest in Microsoft technologies.
+
+- **[Modifications](https://github.com/stars/luke-beep/lists/modifications)** 🔧: Contains repositories linked to modifications in software, hardware, or systems, showcasing innovative tweaks and customizations.
+
+- **[Machine Learning](https://github.com/stars/luke-beep/lists/machine-learning)** 🤖: A list dedicated to machine learning, featuring repositories that cover algorithms, models, datasets, and ML tools.
+
+- **[Awesome](https://github.com/stars/luke-beep/lists/awesome)** ✨: This list includes all the "Awesome" repositories I find particularly useful and inspiring, spanning a wide range of tech topics.
+
+- **[Miscellaneous](https://github.com/stars/luke-beep/lists/miscellaneous)** 🧩: A diverse collection of miscellaneous repositories that don't fit into a specific category but are intriguing and valuable.
+
+- **[Networking](https://github.com/stars/luke-beep/lists/networking)** 🌐: Focused on networking, this list covers repositories related to network protocols, architectures, tools, and best practices.
+
+Each list reflects my areas of interest and serves as a curated guide for anyone exploring similar topics.
 
 ---
 
 ### ⭐ Favorite Themes & Fonts
-- [Nord Theme](https://www.nordtheme.com/)
-- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+
+I have a particular interest for themes and fonts that enhance the coding experience, both aesthetically and functionally.
+
+
+- **[Nord Theme](https://www.nordtheme.com/)** ❄️: A cool, nordic-blue theme that provides a soothing backdrop for long coding sessions. Its subtle and unobtrusive color palette helps reduce eye strain during extended periods of work.
+
+- **[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)** 🤓: This collection of fonts perfectly blends functionality with style, offering a wide range of choices for developers. The fonts are designed to be visually appealing while also being practical for coding environments.
+
+- **[Monaspace](https://monaspace.githubnext.com/)** 🖋️: A beautifully designed, modern, and highly customizable monospace font. It's perfect for coding due to its clarity and readability, which makes focusing on complex code easier.
+
+These themes and fonts not only enhance the visual aspect of my development setup but also contribute to a more comfortable and productive coding experience.
 
 ---
 
 ### 📫 How to Reach Me
-- **Email:** [lukehjo@duck.com](mailto:lukehjo@duck.com)
-- **GitHub:** [luke-beep](https://github.com/luke-beep)
-- **Twitter:** [@LuckyLukeHjo](https://twitter.com/LuckyLukeHjo)
-- **Discord:** [@luckylukehjo](https://discord.com)
+
+Should you wish to discuss technology, collaborate on a project, or simply connect, here are the ways to reach me:
+
+- **Email:** 📧 [lukehjo@duck.com](mailto:lukehjo@duck.com)
+- **GitHub:** 🐱 [luke-beep](https://github.com/luke-beep)
+- **Twitter:** 🐦 [@LuckyLukeHjo](https://twitter.com/LuckyLukeHjo)
+- **Portfolio:** 💼 [lukehjo.dev](https://lukehjo.dev)
+- **Tech Blog:** 📝 [tech.lukehjo.dev](https://tech.lukehjo.dev)
+- **Discord:** 💬 [@luckylukehjo](https://discord.com)
+
+Feel free to reach out for any inquiries or just to say hi!
 
 ---
 
