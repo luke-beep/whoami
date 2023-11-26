@@ -6,7 +6,7 @@
 ---
 
 ### 📝 About Me
-  I'm Azrael, a passionate software developer with a focus on creating impactful and efficient solutions. I love exploring new technologies and building projects that challenge me to grow. [What does Azrael mean to me?]
+  I'm Azrael, a passionate software developer with a focus on creating impactful and efficient solutions. I love exploring new technologies and building projects that challenge me to grow. [What does Azrael mean to me?](#what-does-azrael-mean-to-me)
 
 ---
 
