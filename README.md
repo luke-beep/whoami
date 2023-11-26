@@ -201,6 +201,8 @@ I have worked on a variety of projects that reflect my skills and interests in t
 
 - **[LukeHjo's Dev Log](https://tech.lukehjo.dev)** ✍️: My personal tech blog where I share insights, experiences, and thoughts on various technology-related topics.
 
+- **[CoreFusion Benchmark](https://github.com/luke-beep/CoreFusion-Benchmark)** 🔥: CoreFusion Benchmark is a cutting-edge CPU benchmarking utility designed to assess the performance of CPUs through advanced SIMD (Single Instruction, Multiple Data) operations.
+
 Each of these projects represents a part of my journey in software development, showcasing my passion for creating tools and applications that enhance user experience and productivity.
 
 ---
