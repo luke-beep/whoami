@@ -1,25 +1,28 @@
 <h3 align="center" style="font-weight: bold;">Hello!👋 My name is Azrael</h3>
 <p align="center">
   <a href="https://dev.to/LukeHjo">
-    <img src="https://img.shields.io/badge/Dev.to-black?style=flat-square&logo=dev.to" alt="Dev.to Badge"/>
+    <img src="https://img.shields.io/badge/Dev.to-2E3440?style=flat-square&logo=dev.to" alt="Dev.to Badge"/>
   </a>
   <a href="https://github.com/luke-beep">
-    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="https://mastodon.social/@lukehjo">
+    <img src="https://img.shields.io/badge/Mastodon-2E3440?style=flat-square&logo=mastodon" alt="GitHub Badge"/>
   </a>
   <a href="https://twitter.com/LuckyLukeHjo">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-2E3440?style=flat-square&logo=twitter" alt="Twitter Badge"/>
   </a>
   <a href="https://www.youtube.com/@LukeHjo">
-    <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-2E3440?style=flat-square&logo=youtube" alt="YouTube Badge"/>
   </a>
   <a href="https://hashnode.com/@LukeHjo">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode" alt="Hashnode Badge"/>
+    <img src="https://img.shields.io/badge/Hashnode-2E3440?style=flat-square&logo=hashnode" alt="Hashnode Badge"/>
   </a>
   <a href="https://lukehjo.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-2E3440?style=flat-square&logo=bootstrap" alt="Portfolio Badge"/>
   </a>
   <a href="https://tech.lukehjo.dev">
-    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=react" alt="Tech Blog Badge"/>
+    <img src="https://img.shields.io/badge/Tech%20Blog-2E3440?style=flat-square&logo=hashnode" alt="Tech Blog Badge"/>
   </a>
 </p>
 <p align="center">
