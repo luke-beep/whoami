@@ -40,6 +40,7 @@
 - [💡 Interests & Passions](#-interests)
 - [🗂️ Curated Lists](#-lists)
 - [🎨 Favorite Themes & Fonts](#-favorite-themes--fonts)
+- [📝 Latest Blog Posts](#-latest-blog-posts)
 - [📖 Recommended Books](#-recommended-books)
 - [💾 Code Snippets](#-code-snippets)
 - [📫 Contact & Connect](#-how-to-reach-me)
