@@ -5,17 +5,17 @@
 
 ### 🚀 Quick Navigation
 
-- [👨‍💻 About Me](#📝-about-me)
-- [📊 GitHub Stats](#📊-github-stats)
-- [💻 Programming Languages](#💻-programming-languages)
-- [🛠️ Frameworks & Technologies](#🛠️-frameworks)
-- [🧠 Data Science & Machine Learning](#🚀-data-science--machine-learning)
-- [🧰 Tools & Tech Stack](#🧰-tools--technologies)
-- [📚 My Projects](#📚-projects)
-- [💡 Interests & Passions](#💡-interests)
-- [🗂️ Curated Lists](#📚-lists)
-- [🎨 Favorite Themes & Fonts](#⭐-favorite-themes--fonts)
-- [📫 Contact & Connect](#📫-how-to-reach-me)
+- [👨‍💻 About Me](#-about-me)
+- [📊 GitHub Stats](#-github-stats)
+- [💻 Programming Languages](#-programming-languages)
+- [🛠️ Frameworks & Technologies](#-frameworks)
+- [🧠 Data Science & Machine Learning](#-data-science--machine-learning)
+- [🧰 Tools & Tech Stack](#-tools--technologies)
+- [📚 My Projects](#-projects)
+- [💡 Interests & Passions](#-interests)
+- [🗂️ Curated Lists](#-lists)
+- [🎨 Favorite Themes & Fonts](#-favorite-themes--fonts)
+- [📫 Contact & Connect](#-how-to-reach-me)
 - [🔍 The Meaning Behind 'Azrael'](#what-does-azrael-mean-to-me)
 
 ---
