@@ -1,7 +1,22 @@
-<h3 align="center" style="font-weight: bold;">Hello!👋 My name is LukeHjo</h3>
+<h3 align="center" style="font-weight: bold;">Hello!👋 My name is Azrael</h3>
 <p align="center">
   <img src="assets/LukeHjo.gif" alt="My Github profile" />
 </p>
+
+## 🚀 Quick Navigation
+
+- [👨‍💻 About Me](#📝-about-me)
+- [📊 GitHub Stats](#📊-github-stats)
+- [💻 Programming Languages](#💻-programming-languages)
+- [🛠️ Frameworks & Technologies](#🛠️-frameworks)
+- [🧠 Data Science & Machine Learning](#🚀-data-science--machine-learning)
+- [🧰 Tools & Tech Stack](#🧰-tools--technologies)
+- [📚 My Projects](#📚-projects)
+- [💡 Interests & Passions](#💡-interests)
+- [🗂️ Curated Lists](#📚-lists)
+- [🎨 Favorite Themes & Fonts](#⭐-favorite-themes--fonts)
+- [📫 Contact & Connect](#📫-how-to-reach-me)
+- [🔍 The Meaning Behind 'Azrael'](#what-does-azrael-mean-to-me)
 
 ---
 
@@ -55,10 +70,6 @@ Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ dri
 
 As a technology enthusiast and developer, my expertise spans across a wide range of programming languages. Each language I've learned has significantly contributed to my skill set, allowing me to tackle various challenges in software development, system programming, web development, and more. This list represents the programming languages I use to bring ideas to life and solve complex problems in the world of technology.
 
-<details>
-
-<summary>🔍 Explore My Programming Skills!</summary>
-
 
 #### 🛠️ *a. General-Purpose Programming Languages:*
 - `.NET` 🖥️
@@ -81,6 +92,9 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `Elixir` 💧
 - `Lisp` 🔮
 - `Smalltalk` 💬
+
+<details>
+<summary>🔍 Click to explore more of my Programming Skills!</summary>
 
 #### 💻 *b. Specialized or System Programming Languages:*
 - `TypeScript` 📜
@@ -219,82 +233,82 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 
 My experience spans a diverse range of frameworks and technologies, enabling me to build robust and scalable applications across various domains.
 
+#### 🌍 Web Development:
+- `React` 
+- `Node.js` 
+- `Django` 
+- `Angular`
+- `Vue.js` 
+- `Express.js`
+- `Flask` 
+- `Spring`
+- `Laravel`
+- `Ruby on Rails`
+- `ASP.NET Core`
+- `Ember.js` 
+- `Backbone.js`
+- `Svelte`
+- `Next.js`
+- `Nuxt.js`
+- `Jekyll`
+- `Symfony`
+- `CakePHP`
+- `Bootstrap`
+- `Materialize`
+
 <details>
-<summary>🔍 Explore My Frameworks!</summary>
+<summary>🔍 Click to explore more of my Frameworks!</summary>
 
-#### Web Development:
-- `React` <img src="https://simpleicons.org/icons/react.svg" width="15"/>
-- `Node.js` <img src="https://simpleicons.org/icons/nodedotjs.svg" width="15"/>
-- `Django` <img src="https://simpleicons.org/icons/django.svg" width="15"/>
-- `Angular` <img src="https://simpleicons.org/icons/angular.svg" width="15"/>
-- `Vue.js` <img src="https://simpleicons.org/icons/vuedotjs.svg" width="15"/>
-- `Express.js` <img src="https://simpleicons.org/icons/express.svg" width="15"/>
-- `Flask` <img src="https://simpleicons.org/icons/flask.svg" width="15"/>
-- `Spring` <img src="https://simpleicons.org/icons/spring.svg" width="15"/>
-- `Laravel` <img src="https://simpleicons.org/icons/laravel.svg" width="15"/>
-- `Ruby on Rails` <img src="https://simpleicons.org/icons/rubyonrails.svg" width="15"/>
-- `ASP.NET Core` <img src="https://simpleicons.org/icons/dotnet.svg" width="15"/>
-- `Ember.js` <img src="https://simpleicons.org/icons/emberdotjs.svg" width="15"/>
-- `Backbone.js` <img src="https://simpleicons.org/icons/backbonedotjs.svg" width="15"/>
-- `Svelte` <img src="https://simpleicons.org/icons/svelte.svg" width="15"/>
-- `Next.js` <img src="https://simpleicons.org/icons/nextdotjs.svg" width="15"/>
-- `Nuxt.js` <img src="https://simpleicons.org/icons/nuxtdotjs.svg" width="15"/>
-- `Jekyll` <img src="https://simpleicons.org/icons/jekyll.svg" width="15"/>
-- `Symfony` <img src="https://simpleicons.org/icons/symfony.svg" width="15"/>
-- `CakePHP` <img src="https://simpleicons.org/icons/cakephp.svg" width="15"/>
-- `Bootstrap` <img src="https://simpleicons.org/icons/bootstrap.svg" width="15"/>
-- `Materialize` <img src="https://simpleicons.org/icons/materialdesign.svg" width="15"/>
+#### 📱 Mobile App Development:
+- `React Native`
+- `Flutter`
+- `Xamarin`
+- `NativeScript`
+- `Swift UI`
+- `Kotlin Multiplatform`
+- `.NET MAUI`
 
-#### Mobile App Development:
-- `React Native` <img src="https://simpleicons.org/icons/react.svg" width="15"/>
-- `Flutter` <img src="https://simpleicons.org/icons/flutter.svg" width="15"/>
-- `Xamarin` <img src="https://simpleicons.org/icons/xamarin.svg" width="15"/>
-- `NativeScript` <img src="https://simpleicons.org/icons/nativescript.svg" width="15"/>
-- `Swift UI` <img src="https://simpleicons.org/icons/swift.svg" width="15"/>
-- `Kotlin Multiplatform` <img src="https://simpleicons.org/icons/kotlin.svg" width="15"/>
-- `.NET MAUI` <img src="https://simpleicons.org/icons/dotnet.svg" width="15"/>
+#### 🎮 Game Development:
+- `Unity`
+- `Unreal Engine`
+- `Godot`
+- `MonoGame`
+- `Three.js`
 
-#### Game Development:
-- `Unity` <img src="https://simpleicons.org/icons/unity.svg" width="15"/>
-- `Unreal Engine` <img src="https://simpleicons.org/icons/unrealengine.svg" width="15"/>
-- `Godot` <img src="https://simpleicons.org/icons/godotengine.svg" width="15"/>
-- `MonoGame` <img src="https://simpleicons.org/icons/monogame.svg" width="15"/>
-- `Three.js` <img src="https://simpleicons.org/icons/threedotjs.svg" width="15"/>
+#### 🔗 Backend & API Development:
+- `Spring Boot`
+- `Express`
+- `FastAPI`
+- `ASP.NET Core`
+- `Django REST Framework`
+- `Flask-RESTful`
+- `NestJS`
 
-#### Backend & API Development:
-- `Spring Boot` <img src="https://simpleicons.org/icons/spring.svg" width="15"/>
-- `Express` <img src="https://simpleicons.org/icons/express.svg" width="15"/>
-- `FastAPI` <img src="https://simpleicons.org/icons/fastapi.svg" width="15"/>
-- `ASP.NET Core` <img src="https://simpleicons.org/icons/dotnet.svg" width="15"/>
-- `Django REST Framework` <img src="https://simpleicons.org/icons/django.svg" width="15"/>
-- `Flask-RESTful` <img src="https://simpleicons.org/icons/flask.svg" width="15"/>
-- `NestJS` <img src="https://simpleicons.org/icons/nestjs.svg" width="15"/>
+#### 🖥️ Desktop Application Development:
+- `Electron`
+- `Qt`
+- `WPF`
+- `JavaFX`
+- `Swing`
+- `WinForms`
+- `Avalonia`
+- `WinUI 2`
+- `WinUI 3`
 
-#### Desktop Application Development:
-- `Electron` <img src="https://simpleicons.org/icons/electron.svg" width="15"/>
-- `Qt` <img src="https://simpleicons.org/icons/qt.svg" width="15"/>
-- `WPF` <img src="https://simpleicons.org/icons/dotnet.svg" width="15"/>
-- `JavaFX` <img src="https://simpleicons.org/icons/kotlin.svg" width="15"/>
-- `Swing` <img src="https://simpleicons.org/icons/kotlin.svg" width="15"/>
-- `WinForms` <img src="https://simpleicons.org/icons/dotnet.svg" width="15"/>
-- `Avalonia` <img src="https://simpleicons.org/icons/dotnet.svg" width="15"/>
-- `WinUI 2` <img src="https://simpleicons.org/icons/dotnet.svg" width="15"/>
-- `WinUI 3` <img src="https://simpleicons.org/icons/dotnet.svg" width="15"/>
-
-#### Other Specialized Frameworks:
-- `GraphQL` <img src="https://simpleicons.org/icons/graphql.svg" width="15"/>
-- `Socket.IO` <img src="https://simpleicons.org/icons/socketdotio.svg" width="15"/>
-- `Redux` <img src="https://simpleicons.org/icons/redux.svg" width="15"/>
-- `Apache Hadoop` <img src="https://simpleicons.org/icons/apachehadoop.svg" width="15"/>
-- `Apache Spark` <img src="https://simpleicons.org/icons/apachespark.svg" width="15"/>
-- `Apache Kafka` <img src="https://simpleicons.org/icons/apachekafka.svg" width="15"/>
+#### 🛠️ Other Specialized Frameworks:
+- `GraphQL`
+- `Socket.IO`
+- `Redux`
+- `Apache Hadoop`
+- `Apache Spark`
+- `Apache Kafka`
 
 </details>
 
 <details>
 <summary>🌟 Check Out My Framework Badges!</summary>
 
-#### Web Development:
+#### 🌍 Web Development:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -317,7 +331,7 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Materialize](https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materialize&logoColor=white)
 
-#### Mobile App Development:
+#### 📱 Mobile App Development:
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
@@ -326,14 +340,14 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-#### Game Development:
+#### 🎮 Game Development:
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![MonoGame](https://img.shields.io/badge/MonoGame-000000?style=for-the-badge&logo=monogame&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-#### Backend & API Development:
+#### 🔗 Backend & API Development:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -343,7 +357,7 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 ![Flask-RESTful](https://img.shields.io/badge/Flask--RESTful-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-#### Desktop Application Development:
+#### 🖥️ Desktop Application Development:
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -354,7 +368,7 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 ![WinUI 2](https://img.shields.io/badge/WinUI%202-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![WinUI 3](https://img.shields.io/badge/WinUI%203-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-#### Other Specialized Frameworks:
+#### 🛠️ Other Specialized Frameworks:
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
@@ -370,17 +384,18 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 
 I'm particularly fascinated by the power of data 📊 in transforming insights into actionable intelligence 💡.
 
-<details>
-<summary>🔍 Explore My Machine Learning knowledge!</summary>
 
-- **Machine Learning Frameworks and Libraries:**
+#### **Machine Learning Frameworks and Libraries:**
   - `TensorFlow` 🤖
   - `PyTorch` 🔥
   - `NumPy` 🔢
   - `SciPy` 🧪
   - `Seaborn` 📈
 
-- **Azure Machine Learning and Data Services:**
+<details>
+<summary>🔍 Click to explore more of my Machine Learning knowledge!</summary>
+
+#### **Azure Machine Learning and Data Services:**
   - `Azure Machine Learning Service`: A cloud service for training, deploying, automated machine learning, and tracking machine learning models. 🌐
   - `Azure Databricks`: An Apache Spark-based analytics service optimized for Azure. ⚡
   - `Azure Synapse Analytics`: An analytics service that brings together enterprise data warehousing and Big Data analytics. 💾
@@ -395,14 +410,14 @@ I'm particularly fascinated by the power of data 📊 in transforming insights i
 <details>
 <summary>🌟 Check Out My Machine Learning Badges!</summary>
 
-#### Machine Learning Frameworks and Libraries:
+#### **Machine Learning Frameworks and Libraries**:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-379F7A?style=for-the-badge&logo=seaborn&logoColor=white)
 
-#### Azure Machine Learning and Data Services:
+#### **Azure Machine Learning and Data Services**:
 ![Azure Machine Learning Service](https://img.shields.io/badge/Azure%20Machine%20Learning%20Service-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF652F?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Synapse Analytics](https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -419,61 +434,161 @@ I'm particularly fascinated by the power of data 📊 in transforming insights i
 
 My toolkit includes a variety of tools and technologies that enhance my development workflow and project management.
 
-<details>
-<summary>🔍 Click to expand!</summary>
-
-- **Version Control & Collaboration:** 
+#### **Version Control & Collaboration:** 
   - `Git` 🔄
   - Platforms like `GitHub`, `GitLab`, `Bitbucket` 🤝
   - `Azure DevOps`, `SourceTree` for repository management 🗂️
 
-- **Containerization & Virtualization:** 
+#### **Containerization & Virtualization:** 
   - `Docker` 🐳
   - Orchestration with `Kubernetes` ⚙️
   - Virtualization using `VirtualBox`, `VMware`, `Hyper-V` 📦
 
-- **Cloud Platforms & Services:** 
+<details>
+<summary>🔍 Click to explore more of my Toolset!</summary>
+
+#### **Cloud Platforms & Services:** 
   - `AWS`, `Azure`, `Google Cloud Platform` ☁️
   - Cloud-based tools like `Heroku`, `DigitalOcean`, `Firebase` 🌐
 
-- **CI/CD & Automation:** 
+#### **CI/CD & Automation:** 
   - `Jenkins`, `Travis CI`, `CircleCI`, `GitHub Actions` for CI/CD pipelines 🚀
   - Configuration management with `Ansible`, `Terraform`, `CloudFormation`, `Chef` 🔧
 
-- **Monitoring & Logging:** 
+#### **Monitoring & Logging:** 
   - Tools like `Prometheus`, `Grafana`, `ELK Stack` (Elasticsearch, Logstash, Kibana) 👁️
   - `Splunk`, `Datadog`, `New Relic` for performance analysis 📊
 
-- **Database Management:** 
+#### **Database Management:** 
   - SQL and NoSQL databases like `MySQL`, `PostgreSQL`, `MongoDB`, `Redis` 🗄️
   - `Microsoft SQL Server`, `SQLite`, `Cassandra` 💾
 
-- **Development & IDE Tools:** 
+#### **Development & IDE Tools:** 
   - `Visual Studio Code`, `CLion`, `PyCharm`, `WebStorm`, `Visual Studio 2022`, `RustRover`, `RubyMine`, `GoLand`, `Rider` 💻
   - Text editors like `Vim` and `Neovim` ✏️
 
-- **Testing & Quality Assurance:** 
+#### **Testing & Quality Assurance:** 
   - `Selenium`, `JUnit`, `Jest` for automated testing 🧪
   - `NUnit`, `Postman` for API testing ✅
 
-- **Networking & Security:** 
+### **Networking & Security:** 
   - `Wireshark`, `OpenSSL`, `Nmap` for network analysis 🔍
   - Cybersecurity tools like `Metasploit`, `Nessus` 🔒
 
-- **Data Analysis & Business Intelligence:** 
+#### **Data Analysis & Business Intelligence:** 
   - `Power BI`, `Hadoop` for data analysis 📈
 
-- **Scripting & Automation:** 
+#### **Scripting & Automation:** 
   - `PowerShell`, `Bash`, `Python`, `Node.js`, `Shell`, `Perl`, `Make`, `GitHub Actions` for automation scripting 🤖
 
-- **Miscellaneous Tools:** 
+#### **Miscellaneous Tools:** 
   - `Slack`, `Trello`, `Jira`, `Microsoft Teams` for collaboration and project management 🛠️
   - `Notion` for personal and professional organization 📋
 
-
 </details>
 
+<details>
+<summary>🌟 Check Out My Tool Badges!</summary>
 
+#### **Version Control & Collaboration:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+
+#### **Containerization & Virtualization:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge&logo=microsoft-hyper-v&logoColor=white)
+
+#### **Cloud Platforms & Services:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+#### **CI/CD & Automation:**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Chef](https://img.shields.io/badge/Chef-FF0000?style=for-the-badge&logo=chef&logoColor=white)
+
+#### **Monitoring & Logging:**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-008C99?style=for-the-badge&logo=new-relic&logoColor=white)
+
+#### **Database Management:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
+#### **Development & IDE Tools:**
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![RustRover](https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=rust&logoColor=white)
+![RubyMine](https://img.shields.io/badge/RubyMine-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+#### **Testing & Quality Assurance:**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=for-the-badge&logo=nunit&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### **Networking & Security:**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4A646C?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B7C3?style=for-the-badge&logo=nessus&logoColor=white)
+
+#### **Data Analysis & Business Intelligence:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FF652F?style=for-the-badge&logo=apache&logoColor=white)
+
+#### **Scripting & Automation:**
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Make](https://img.shields.io/badge/Make-EE0000?style=for-the-badge&logo=gnu-make&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### **Miscellaneous Tools:**
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</details>
 
 ---
 
@@ -481,30 +596,35 @@ My toolkit includes a variety of tools and technologies that enhance my developm
 
 I have worked on a variety of projects that reflect my skills and interests in technology.
 
-- **[All about Windows](https://github.com/luke-beep/all-about-windows)** 🪟
+#### **[All about Windows](https://github.com/luke-beep/all-about-windows)** 🪟
 > A comprehensive collection of resources for Windows users, offering tips, tricks, and in-depth guides.
 
-- **[LukeHjo's Dev Log](https://tech.lukehjo.dev)** ✍️
+#### **[LukeHjo's Dev Log](https://tech.lukehjo.dev)** ✍️
 > My personal tech blog where I share insights, experiences, and thoughts on various technology-related topics.
 
-- **[Windows Image Comparator](https://github.com/luke-beep/WindowsImageComparator)** 🖼️ 
+<details>
+<summary>🔍 Click to explore more projects!</summary>
+
+#### **[Windows Image Comparator](https://github.com/luke-beep/WindowsImageComparator)** 🖼️ 
 > A tool designed for efficient image comparison and management, specifically for Windows environments.
 
-- **[Algorithm Visualizer](https://github.com/luke-beep/AlgorithmVisualizer)** 📊
+#### **[Algorithm Visualizer](https://github.com/luke-beep/AlgorithmVisualizer)** 📊
 > An interactive tool that helps in visualizing algorithms, making complex concepts easier to understand.
 
-- **[qLitePhotoViewer](https://github.com/luke-beep/qLitePhotoViewer)** 🌄 
+#### **[qLitePhotoViewer](https://github.com/luke-beep/qLitePhotoViewer)** 🌄 
 > A lightweight and user-friendly photo viewer, optimized for performance on Windows.
 
-- **[qLiteVM](https://github.com/luke-beep/qLiteVM)** 💻
+#### **[qLiteVM](https://github.com/luke-beep/qLiteVM)** 💻
 > A streamlined virtual machine solution for Windows, focusing on simplicity and ease of use.
 
-- **[CoreFusion Benchmark](https://github.com/luke-beep/CoreFusion-Benchmark)** 🔥
+#### **[CoreFusion Benchmark](https://github.com/luke-beep/CoreFusion-Benchmark)** 🔥
 > CoreFusion Benchmark is a cutting-edge CPU benchmarking utility designed to assess the performance of CPUs through advanced SIMD (Single Instruction, Multiple Data) operations.
 
-- **[HoneCTRL](https://github.com/luke-beep/HoneCTRL)** ⚙️
+#### **[HoneCTRL](https://github.com/luke-beep/HoneCTRL)** ⚙️
 > An innovative application that allows users to customize and enhance the functionality of Windows 10 & 11.
 
+</details>
+<br>
 Each of these projects represents a part of my journey in software development, showcasing my passion for creating tools and applications that enhance user experience and productivity.
 
 ---
@@ -513,85 +633,86 @@ Each of these projects represents a part of my journey in software development, 
 
 My interests in technology are broad and ever-evolving, reflecting my enthusiasm for the field's dynamic nature. Here's a deeper look into areas that I enjoy researching.
 
-<details>
-<summary>🔍 Click to explore my interests!</summary>
-
-- **Technology Trends** 🌐
+#### **Technology Trends** 🌐
 > Staying ahead of the latest advancements in tech, from emerging software to innovative hardware solutions.
 
-- **Open Source Contribution** 👐
+#### **Open Source Contribution** 👐
 > Actively contributing to open-source projects, believing in the collaborative power of community-driven development.
 
-- **Hardware-to-Software Interfacing** 🔌
+#### **Hardware-to-Software Interfacing** 🔌
 > Exploring the integration of hardware and software, particularly interested in IoT and embedded systems.
 
-- **Machine Learning (ML)** 🤖 & **Artificial Intelligence (AI)** 🧠
+<details>
+<summary>🔍 Click to explore more of my interests!</summary>
+
+#### **Machine Learning (ML)** 🤖 & **Artificial Intelligence (AI)** 🧠
 > Diving into the realms of ML and AI, exploring their potential to solve complex problems and enhance human capabilities.
 
-- **Data Science** 📊
+#### **Data Science** 📊
 > Engaging in data mining and analysis, uncovering insights and trends from vast datasets.
 
-- **Data Visualization** 📈
+#### **Data Visualization** 📈
 > Creating intuitive visual representations of data to make complex information accessible and understandable.
 
-- **Web Development** 💻
+#### **Web Development** 💻
 > Developing web applications using technologies like ASP.NET Core, React, and Node.js, focusing on both frontend and backend development.
 
-- **Cybersecurity** 🔒
+#### **Cybersecurity** 🔒
 > Exploring both offensive and defensive aspects of cybersecurity, understanding vulnerabilities, and developing robust security measures.
 
-- **Cryptography** 🔐
+#### **Cryptography** 🔐
 > Fascinated by the science of encryption and decryption, ensuring data security and privacy.
 
-- **Quantum Computing** ⚛️
+#### **Quantum Computing** ⚛️
 > Intrigued by the potential of quantum computing to revolutionize various fields, including cryptography and complex problem-solving.
 
-- **Blockchain** 🌐
+#### **Blockchain** 🌐
 > Interested in blockchain technology for its applications beyond cryptocurrencies, exploring its use in securing digital transactions and decentralizing systems.
 
-- **Internet of Things (IoT)** 📱
+#### **Internet of Things (IoT)** 📱
 > Experimenting with IoT devices and systems, integrating them into everyday life for enhanced connectivity and automation.
 
-- **Cloud Computing** ☁️
+#### **Cloud Computing** ☁️
 > Utilizing cloud platforms for scalable and efficient computing resources, exploring cloud-based solutions for various applications.
 
-- **DevOps** 🛠️
+#### **DevOps** 🛠️
 > Implementing DevOps practices for streamlined development and operations, focusing on automation, CI/CD, and efficient workflows.
 
-- **Developer Experience (DevEx)** 🎨
+#### **Developer Experience (DevEx)** 🎨
 > Passionate about improving the developer experience through better tools, environments, and practices.
 
-- **Automation (CI/CD)** ⚙️
+#### **Automation (CI/CD)** ⚙️
 > Automation in software development, particularly in continuous integration and continuous deployment; also known as CI/CD.
 
-- **Scripting** 📜
+#### **Scripting** 📜
 > Writing scripts in Bash, PowerShell, and other languages to automate tasks and processes.
 
-- **Kernel Development** 💽
+#### **Kernel Development** 💽
 > Diving into the core of operating systems by exploring various kernels like Linux, Windows NT, and Mach.
 
-- **Operating Systems** 💻
+#### **Operating Systems** 💻
 > Proficient in operating systems like Debian, Windows 11, and macOS, understanding their architecture and capabilities.
 
-- **Computer Architecture** 🏛️
+#### **Computer Architecture** 🏛️
 > Studying architectures like x86, ARM, and MIPS, understanding how computer systems are fundamentally built and operated.
 
-- **Computer Networking** 🌍
+#### **Computer Networking** 🌍
 > Exploring TCP/IP, OSI models, and other networking concepts, understanding how data is transmitted and managed across networks.
 
-- **Computer Hardware** 🖥️
+#### **Computer Hardware** 🖥️
 > Interested in the workings of CPUs, GPUs, and RAM, understanding their roles in computing performance.
 
-- **Computer Software** 👨‍💻
+#### **Computer Software** 👨‍💻
 > Using various IDEs and text editors, continuously exploring new tools and technologies to enhance software development; related to DevEx.
 
-- **Computer Engineering** ⚡
+#### **Computer Engineering** ⚡
 > Bridging the gap between electrical engineering and computer science, focusing on the hardware aspect of computing.
 
-- **Standards** 📏
+#### **Standards** 📏
 > Following and contributing to standards like ISO, IEEE, and ISA, ensuring quality and consistency in technology and engineering.
 
 </details>
+<br>
 
 ---
 
@@ -599,32 +720,38 @@ My interests in technology are broad and ever-evolving, reflecting my enthusiasm
 
 I curate various lists on GitHub to organize resources and repositories that I find interesting and useful. Here's a quick overview of the lists I maintain:
 
-- **[Themes & Fonts](https://github.com/stars/luke-beep/lists/themes-fonts)** 🎨
+#### **[Themes & Fonts](https://github.com/stars/luke-beep/lists/themes-fonts)** 🎨
 > A collection of themes and fonts that I like, featuring aesthetically pleasing and functional design choices.
 
-- **[Software Development](https://github.com/stars/luke-beep/lists/software-development)** 💻
+#### **[Software Development](https://github.com/stars/luke-beep/lists/software-development)** 💻
 > Repositories related to software development, encompassing tools, libraries, and frameworks that enhance coding efficiency and capabilities.
 
-- **[Privacy & Security](https://github.com/stars/luke-beep/lists/privacy-security)** 🔒
+<details>
+<summary>🔍 Click to explore more of my lists!</summary>
+
+#### **[Privacy & Security](https://github.com/stars/luke-beep/lists/privacy-security)** 🔒
 > Focused on privacy and security-related repositories, this list includes tools and resources for securing digital assets and maintaining privacy.
 
-- **[Microsoft](https://github.com/stars/luke-beep/lists/microsoft)** ⚙️
+#### **[Microsoft](https://github.com/stars/luke-beep/lists/microsoft)** ⚙️
 > A compilation of repositories related to Microsoft services and products, highlighting my interest in Microsoft technologies.
 
-- **[Modifications](https://github.com/stars/luke-beep/lists/modifications)** 🔧
+#### **[Modifications](https://github.com/stars/luke-beep/lists/modifications)** 🔧
 > Contains repositories linked to modifications in software, hardware, or systems, showcasing innovative tweaks and customizations.
 
-- **[Machine Learning](https://github.com/stars/luke-beep/lists/machine-learning)** 🤖
+#### **[Machine Learning](https://github.com/stars/luke-beep/lists/machine-learning)** 🤖
 > A list dedicated to machine learning, featuring repositories that cover algorithms, models, datasets, and ML tools.
 
-- **[Awesome](https://github.com/stars/luke-beep/lists/awesome)** ✨
+#### **[Awesome](https://github.com/stars/luke-beep/lists/awesome)** ✨
 > This list includes all the "Awesome" repositories I find particularly useful and inspiring, spanning a wide range of tech topics.
 
-- **[Miscellaneous](https://github.com/stars/luke-beep/lists/miscellaneous)** 🧩
+#### **[Miscellaneous](https://github.com/stars/luke-beep/lists/miscellaneous)** 🧩
 > A diverse collection of miscellaneous repositories that don't fit into a specific category but are intriguing and valuable.
 
-- **[Networking](https://github.com/stars/luke-beep/lists/networking)** 🌐
+#### **[Networking](https://github.com/stars/luke-beep/lists/networking)** 🌐
 > Focused on networking, this list covers repositories related to network protocols, architectures, tools, and best practices.
+
+</details>
+<br>
 
 Each list reflects my areas of interest and serves as a curated guide for anyone exploring similar topics.
 
