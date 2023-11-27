@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github" alt="GitHub Badge"/>
   </a>
   <a href="https://mastodon.social/@lukehjo">
-    <img src="https://img.shields.io/badge/Mastodon-2E3440?style=flat-square&logo=mastodon" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/Mastodon-2E3440?style=flat-square&logo=mastodon" alt="Mastodon Badge"/>
   </a>
   <a href="https://twitter.com/LuckyLukeHjo">
     <img src="https://img.shields.io/badge/Twitter-2E3440?style=flat-square&logo=twitter" alt="Twitter Badge"/>
@@ -23,6 +23,9 @@
   </a>
   <a href="https://tech.lukehjo.dev">
     <img src="https://img.shields.io/badge/Tech%20Blog-2E3440?style=flat-square&logo=hashnode" alt="Tech Blog Badge"/>
+  </a>
+  <a href="https://gist.github.com/luke-beep">
+        <img src="https://img.shields.io/badge/Gists-2E3440?style=flat-square&logo=github" alt="Gists"/>
   </a>
 </p>
 <p align="center">
