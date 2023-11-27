@@ -24,31 +24,31 @@
 
 Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ driven by a deep curiosity about how **technology** 🚀 can be harnessed to solve real-world problems. With a background in both *computer science* 👨‍💻 and *programming*, I find myself at the intersection of coding and creativity, where every line of code is a step towards innovation.
 
-**Early Beginnings** 🌟
+#### **Early Beginnings** 🌟
 >  My journey in technology began in my early teens when I discovered the world of *programming*. Fascinated by the potential of code to bring ideas to life, I spent countless hours learning languages like **C** and **C#**, which later became the foundation of my professional skill set.
 
-**Philosophy** 💡
+#### **Philosophy** 💡
 > I believe that software development is not just about writing code; it's about crafting solutions that have a **lasting impact**. This philosophy drives me to continually *learn* 📚 and *evolve* 🌱, ensuring that my work not only solves problems but also contributes positively to the community.
 
-**Current Focus** 🔍
+#### **Current Focus** 🔍
 > Currently, I am deeply engaged in exploring **computer internals** ☁️ and **hardware** 🤖. My goal is to integrate these technologies to create **scalable**, **efficient**, and **intelligent** systems.
 
-**Engagement in Tech** 🗣️
+#### **Engagement in Tech** 🗣️
 > While I may not participate in competitions, I actively engage in various *tech* and *programming groups*. Sharing knowledge, debating ideas, and staying connected with the latest trends in technology are aspects I thoroughly enjoy.
 
-**Personal Projects** 👨‍💻
+#### **Personal Projects** 👨‍💻
 > My personal projects often reflect my interests in *data science* 📊 and *info security* 🔒. From developing tools that enhance privacy to creating algorithms that analyze complex data, these projects are a testament to my commitment to lifelong learning and professional growth.
 
 <details>
 <summary>📚 More About Me</summary>
 
-**Future Aspirations** 🌱
+#### **Future Aspirations** 🌱
 > Looking ahead, I aim to contribute to *open-source* projects and *tech communities* more actively. I believe in the power of collaboration and open knowledge sharing 🤝 to drive innovation in the tech industry.
 
-**Tech Blogging** ✍️
+#### **Tech Blogging** ✍️
 > I regularly write on my tech blog, covering topics from latest tech trends to deep dives into coding challenges.
 
-**My Name** 📛
+#### **My Name** 📛
 > I chose the name **Azrael** as a representation of my personal philosophy and values. You can read more about what the name means to me [here](#what-does-azrael-mean-to-me).
 
 </details>
