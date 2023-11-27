@@ -16,7 +16,7 @@
 - [🗂️ Curated Lists](#-lists)
 - [🎨 Favorite Themes & Fonts](#-favorite-themes--fonts)
 - [📫 Contact & Connect](#-how-to-reach-me)
-- [🔍 The Meaning Behind 'Azrael'](#what-does-azrael-mean-to-me)
+- [🔍 The Meaning Behind 'Azrael'](#the-meaning-behind-azrael)
 
 ---
 
@@ -49,7 +49,7 @@ Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ dri
 > I regularly write on my tech blog, covering topics from latest tech trends to deep dives into coding challenges.
 
 #### **My Name** 📛
-> I chose the name **Azrael** as a representation of my personal philosophy and values. You can read more about what the name means to me [here](#what-does-azrael-mean-to-me).
+> I chose the name **Azrael** as a representation of my personal philosophy and values. You can read more about what the name means to me [here](#the-meaning-behind-azrael).
 
 </details>
 
@@ -229,7 +229,7 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 
 ---
 
-### 🛠️ Frameworks 
+### 🛠️ Frameworks & Technologies 
 
 My experience spans a diverse range of frameworks and technologies, enabling me to build robust and scalable applications across various domains.
 
@@ -430,7 +430,7 @@ I'm particularly fascinated by the power of data 📊 in transforming insights i
 
 ---
 
-### 🧰 Tools & Technologies
+### 🧰 Tools & Tech Stack
 
 My toolkit includes a variety of tools and technologies that enhance my development workflow and project management.
 
@@ -592,7 +592,7 @@ My toolkit includes a variety of tools and technologies that enhance my developm
 
 ---
 
-### 📚 Projects
+### 📚 My Projects
 
 I have worked on a variety of projects that reflect my skills and interests in technology.
 
@@ -629,7 +629,7 @@ Each of these projects represents a part of my journey in software development, 
 
 ---
 
-### 💡 Interests
+### 💡 Interests & Passions
 
 My interests in technology are broad and ever-evolving, reflecting my enthusiasm for the field's dynamic nature. Here's a deeper look into areas that I enjoy researching.
 
@@ -716,7 +716,7 @@ My interests in technology are broad and ever-evolving, reflecting my enthusiasm
 
 ---
 
-### 📚 Lists
+### 📚 Curated Lists
 
 I curate various lists on GitHub to organize resources and repositories that I find interesting and useful. Here's a quick overview of the lists I maintain:
 
@@ -772,7 +772,7 @@ These themes and fonts not only enhance the visual aspect of my development setu
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Contact & Connect
 
 Should you wish to discuss technology, collaborate on a project, or simply connect, here are the ways to reach me:
 
@@ -787,7 +787,7 @@ Feel free to reach out for any inquiries or just to say hi!
 
 ---
 
-### What does Azrael mean to me?
+### The Meaning Behind 'Azrael'
 
 <p align="center">
   <img src="assets/Batman.gif" width=4096 alt="Moon" />
