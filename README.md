@@ -807,6 +807,8 @@ These themes and fonts not only enhance the visual aspect of my development setu
 
 Check out [my blog](https://tech.lukehjo.dev) for more articles and insights!
 
+---
+
 ### 📖 Recommended Books
 
 I'm an avid reader, and I enjoy exploring a variety of genres, from fiction to non-fiction. Here are some of my favorite books.
