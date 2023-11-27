@@ -3,7 +3,7 @@
   <img src="assets/LukeHjo.gif" alt="My Github profile" />
 </p>
 
-## 🚀 Quick Navigation
+### 🚀 Quick Navigation
 
 - [👨‍💻 About Me](#📝-about-me)
 - [📊 GitHub Stats](#📊-github-stats)
