@@ -19,7 +19,4 @@ jobs:
           feed_list: "https://tech.lukehjo.dev/rss.xml"
           max_post_count: 5
           template: |
-            {{ range . }}
-            - $counter. **[$title]($url)** - _Posted on $date_ $emojiKey(📚,🖥️,💡,🔧,🌐) 
-              > $description
-            {{ end }}
+            - $counter. **[$title]($url)** - $categories $emojiKey(📚,🖥️,💡,🔧,🌐) 
