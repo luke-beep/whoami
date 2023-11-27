@@ -326,6 +326,10 @@ Feel free to reach out for any inquiries or just to say hi!
 
 ### What does Azrael mean to me?
 
+<p align="center">
+  <img src="assets/Batman.gif" width=4096 alt="Moon" />
+</p>
+
 The name **Azrael**, representing both an end and a transition, inherently embraces the existential concept that _awareness of mortality enhances vitality_. This dual awareness upbrings a _heightened appreciation_ for life's wonderful moments and encourages a more engaged and passionate approach to living. It's a _conscious decision_ to live fully, with an understanding of _life's finite nature_, driving a pursuit for _meaningful experiences_ and _authentic relationships_.
 
 _Existentialism_ places great emphasis on _freedom_ – the _freedom to choose_, to create oneself, and to determine one’s path. Yet, this freedom comes with the weight of _responsibility_. By choosing the name **Azrael**, there is an acknowledgment of this dialectic. It symbolizes a freedom to embody values of _compassion and understanding_, coupled with the _responsibility_ to act in accordance with these values, especially in moments that matter most. It reflects a commitment to make choices that are not only personally fulfilling but also contribute positively to the lives of others.
@@ -339,6 +343,10 @@ While **Azrael** represents a deeply personal choice, it also resonates with uni
 Naming myself **Azrael** is more than a symbolic gesture; it is a profound commitment to a life lived with _depth_, _authenticity_, and an open embrace of _existential realities_. It signifies a journey that is constantly evolving, reflecting both the personal nuances of individual existence and the broader _human condition_. This choice is a testament to the courage to confront life's greatest questions and the determination to find _meaning_ and _purpose_ within them.
 
 ---
+
+<p align="center">
+  <img src="assets/DiscordDev.png" alt="Profile" />
+</p>
 
 **<div align="center" id="footer">© 2023 LukeHjo. All rights reserved. <div>**
 <br>
