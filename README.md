@@ -624,7 +624,6 @@ I have worked on a variety of projects that reflect my skills and interests in t
 > An innovative application that allows users to customize and enhance the functionality of Windows 10 & 11.
 
 </details>
-<br>
 Each of these projects represents a part of my journey in software development, showcasing my passion for creating tools and applications that enhance user experience and productivity.
 
 ---
@@ -712,7 +711,6 @@ My interests in technology are broad and ever-evolving, reflecting my enthusiasm
 > Following and contributing to standards like ISO, IEEE, and ISA, ensuring quality and consistency in technology and engineering.
 
 </details>
-<br>
 
 ---
 
@@ -751,7 +749,6 @@ I curate various lists on GitHub to organize resources and repositories that I f
 > Focused on networking, this list covers repositories related to network protocols, architectures, tools, and best practices.
 
 </details>
-<br>
 
 Each list reflects my areas of interest and serves as a curated guide for anyone exploring similar topics.
 
