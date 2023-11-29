@@ -806,11 +806,11 @@ These themes and fonts not only enhance the visual aspect of my development setu
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - [Ada: The Language and Legacy of Ada Lovelace](https://tech.lukehjo.dev/ada-the-language-and-legacy-of-ada-lovelace) -  📚
- - [Understanding SQL &amp; NoSQL: A Comprehensive Guide](https://tech.lukehjo.dev/understanding-sql-nosql-a-comprehensive-guide) -  🖥️
- - [Understanding Microcontrollers: A Comprehensive Guide](https://tech.lukehjo.dev/understanding-microcontrollers-a-comprehensive-guide) -  💡
- - [Networking | Part 7](https://tech.lukehjo.dev/networking-part-7) -  🔧
- - [Introduction to Space Complexity](https://tech.lukehjo.dev/introduction-to-space-complexity) -  🌐<!-- BLOG-POST-LIST:END -->
+ - [Statistical Analysis versus Artificial Intelligence: Where are we now?](https://tech.lukehjo.dev/statistical-analysis-versus-artificial-intelligence-where-are-we-now) -  📚
+ - [Ada: The Language and Legacy of Ada Lovelace](https://tech.lukehjo.dev/ada-the-language-and-legacy-of-ada-lovelace) -  🖥️
+ - [Understanding SQL &amp; NoSQL: A Comprehensive Guide](https://tech.lukehjo.dev/understanding-sql-nosql-a-comprehensive-guide) -  💡
+ - [Understanding Microcontrollers: A Comprehensive Guide](https://tech.lukehjo.dev/understanding-microcontrollers-a-comprehensive-guide) -  🔧
+ - [Networking | Part 7](https://tech.lukehjo.dev/networking-part-7) -  🌐<!-- BLOG-POST-LIST:END -->
 
 Check out [my blog](https://tech.lukehjo.dev) for more articles and insights!
 
