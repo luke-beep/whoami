@@ -652,7 +652,7 @@ I have worked on a variety of projects that reflect my skills and interests in t
 > A streamlined virtual machine solution for Windows, focusing on simplicity and ease of use.
 
 #### **[CoreFusion Benchmark](https://github.com/luke-beep/CoreFusion-Benchmark)** 🔥
-> CoreFusion Benchmark is a cutting-edge CPU benchmarking utility designed to assess the performance of CPUs through advanced SIMD (Single Instruction, Multiple Data) operations.
+> CoreFusion Benchmark is a CPU benchmarking utility designed to assess the performance of CPUs through advanced SIMD (Single Instruction, Multiple Data) operations.
 
 #### **[HoneCTRL](https://github.com/luke-beep/HoneCTRL)** ⚙️
 > An innovative application that allows users to customize and enhance the functionality of Windows 10 & 11.
