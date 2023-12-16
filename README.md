@@ -29,7 +29,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="assets/LukeHjo.gif" alt="My Github profile" />
+  <img src="assets/GitHubUnwrapped.gif" alt="My Github profile" />
 </p>
 
 ---
@@ -50,7 +50,6 @@
 - [📖 Recommended Books](#-recommended-books)
 - [💾 Code Snippets](#-code-snippets)
 - [📫 Contact & Connect](#-how-to-reach-me)
-- [🔍 The Meaning Behind 'Azrael'](#the-meaning-behind-azrael)
 
 ---
 
@@ -1055,10 +1054,6 @@ public static class QuickSort
 ```
 > A simple C# implementation of the quick sort algorithm.
 
-
-
-
-
 ### 📫 Contact & Connect
 
 Should you wish to discuss technology, collaborate on a project, or simply connect, here are the ways to reach me:
@@ -1073,6 +1068,8 @@ Should you wish to discuss technology, collaborate on a project, or simply conne
 Feel free to reach out for any inquiries or just to say hi!
 
 ---
+
+<!--
 
 ### The Meaning Behind 'Azrael'
 
@@ -1093,6 +1090,8 @@ While **Azrael** represents a deeply personal choice, it also resonates with uni
 Naming myself **Azrael** is more than a symbolic gesture; it is a profound commitment to a life lived with _depth_, _authenticity_, and an open embrace of _existential realities_. It signifies a journey that is constantly evolving, reflecting both the personal nuances of individual existence and the broader _human condition_. This choice is a testament to the courage to confront life's greatest questions and the determination to find _meaning_ and _purpose_ within them.
 
 ---
+
+-->
 
 <p align="center">
   <img src="assets/DiscordDev.png" alt="Profile" />
