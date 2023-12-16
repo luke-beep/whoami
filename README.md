@@ -55,7 +55,7 @@
 
 ### 📝 About Me
 
-Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ driven by a deep curiosity about how **technology** 🚀 can be harnessed to solve real-world problems. With a background in both *computer science* 👨‍💻 and *programming*, I find myself at the intersection of coding and creativity, where every line of code is a step towards innovation.
+Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ driven by a deep curiosity about how **technology** 🚀 can be utilized to solve real-world problems. With a background in both *computer science* 👨‍💻 and *programming*, I find myself at the center of coding and creativity, where every line of code is a step towards innovation.
 
 #### **Early Beginnings** 🌟
 >  My journey in technology began in my early teens when I discovered the world of *programming*. Fascinated by the potential of code to bring ideas to life, I spent countless hours learning languages like **C** and **C#**, which later became the foundation of my professional skill set.
