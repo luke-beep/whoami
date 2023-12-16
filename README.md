@@ -81,9 +81,6 @@ Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ dri
 #### **Tech Blogging** ✍️
 > I regularly write on my tech blog, covering topics from latest tech trends to deep dives into coding challenges.
 
-#### **My Name** 📛
-> I chose the name **Azrael** as a representation of my personal philosophy and values. You can read more about what the name means to me [here](#the-meaning-behind-azrael).
-
 </details>
 
 ---
