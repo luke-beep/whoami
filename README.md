@@ -1091,6 +1091,6 @@ Naming myself **Azrael** is more than a symbolic gesture; it is a profound commi
   <img src="assets/DiscordDev.png" alt="Profile" />
 </p>
 
-**<div align="center" id="footer">© 2023 LukeHjo. All rights reserved. <div>**
+**<div align="center" id="footer">© 2024 LukeHjo. All rights reserved. <div>**
 <br>
 <div align="right"><a href="#">(Back to top)</a></div>
