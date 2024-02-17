@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Portfolio-2E3440?style=flat-square&logo=bootstrap" alt="Portfolio Badge"/>
   </a>
   <a href="https://tech.lukehjo.dev">
-    <img src="https://img.shields.io/badge/Tech%20Blog-2E3440?style=flat-square&logo=hashnode" alt="Tech Blog Badge"/>
+    <img src="https://img.shields.io/badge/Tech%20Blog-2E3440?style=flat-square&logo=substack" alt="Tech Blog Badge"/>
   </a>
   <a href="https://gist.github.com/luke-beep">
         <img src="https://img.shields.io/badge/Gists-2E3440?style=flat-square&logo=github" alt="Gists"/>
@@ -830,6 +830,12 @@ I'm an avid reader, and I enjoy exploring a variety of genres, from fiction to n
 
 #### **[Clean Code](https://www.goodreads.com/book/show/3735293-clean-code)** 📖
 > A practical guide to software construction, covering the entire development process, from initial design to final testing.
+
+#### **[Windows Internals, Part 1: System Architecture, Processes, Threads, Memory Management, and More](https://www.goodreads.com/book/show/35106485-windows-internals-part-1)** 📖
+> A comprehensive guide to the internal workings of the Windows operating system, covering its architecture, processes, and memory management.
+
+#### **[Windows Internals, Part 2](https://www.goodreads.com/book/show/56617614-windows-internals-part-2)** 📖
+> A comprehensive guide to the internal workings of the Windows operating system, covering its architecture, and so much more.
 
 ---
 
