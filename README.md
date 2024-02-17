@@ -117,10 +117,9 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `R` 🔢
 - `Haskell` 🧙‍♂️
 - `Objective-C` 🍏
-- `MATLAB` 📊
 - `COBOL` 🏢
 - `Elixir` 💧
-- `Lisp` 🔮
+- `Zig` 🔮
 - `Smalltalk` 💬
 
 <details>
@@ -157,6 +156,7 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `YAML` 🗃️
 - `JSON` 📊
 - `BSON` 🗂️
+- `ASON` 🗂️
 - `XML` 📰
 - `TOML` 📑
 - `INI` 🔧
@@ -198,10 +198,9 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=objective-c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-1572B6?style=for-the-badge&logo=ibm&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Lisp](https://img.shields.io/badge/Lisp-002B5C?style=for-the-badge&logo=lisp&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-002B5C?style=for-the-badge&logo=zig&logoColor=white)
 ![Smalltalk](https://img.shields.io/badge/Smalltalk-59666C?style=for-the-badge&logo=smalltalk&logoColor=white)
 
 #### 💻 *b. Specialized or System Programming Languages:*
