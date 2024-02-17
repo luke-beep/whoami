@@ -16,7 +16,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://tech.lukehjo.dev/rss.xml"
+          feed_list: "https://tech.lukehjo.dev/feed"
           max_post_count: 5
           template: |
             $newline - [$title]($url) - $categories $emojiKey(📚,🖥️,💡,🔧,🌐) 
