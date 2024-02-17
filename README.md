@@ -799,11 +799,9 @@ These themes and fonts not only enhance the visual aspect of my development setu
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - [Statistical Analysis versus Artificial Intelligence: Where are we now?](https://tech.lukehjo.dev/statistical-analysis-versus-artificial-intelligence-where-are-we-now) -  📚
- - [Ada: The Language and Legacy of Ada Lovelace](https://tech.lukehjo.dev/ada-the-language-and-legacy-of-ada-lovelace) -  🖥️
- - [Understanding SQL &amp; NoSQL: A Comprehensive Guide](https://tech.lukehjo.dev/understanding-sql-nosql-a-comprehensive-guide) -  💡
- - [Understanding Microcontrollers: A Comprehensive Guide](https://tech.lukehjo.dev/understanding-microcontrollers-a-comprehensive-guide) -  🔧
- - [Networking | Part 7](https://tech.lukehjo.dev/networking-part-7) -  🌐<!-- BLOG-POST-LIST:END -->
+ - [Different form factors in the technology landscape.](https://tech.lukehjo.dev/p/different-form-factors-in-the-technology) -  📚
+ - [Logical Operations in Computer Science and Digital Electronics](https://tech.lukehjo.dev/p/logical-operations-in-computer-science) -  🖥️
+ - [NASA&#39;s Developer Rules](https://tech.lukehjo.dev/p/nasas-developer-rules) -  💡<!-- BLOG-POST-LIST:END -->
 
 Check out [my blog](https://tech.lukehjo.dev) for more articles and insights!
 
