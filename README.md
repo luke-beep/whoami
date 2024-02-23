@@ -798,9 +798,10 @@ These themes and fonts not only enhance the visual aspect of my development setu
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - [Different form factors in the technology landscape.](https://tech.lukehjo.dev/p/different-form-factors-in-the-technology) -  📚
- - [Logical Operations in Computer Science and Digital Electronics](https://tech.lukehjo.dev/p/logical-operations-in-computer-science) -  🖥️
- - [NASA&#39;s Developer Rules](https://tech.lukehjo.dev/p/nasas-developer-rules) -  💡<!-- BLOG-POST-LIST:END -->
+ - [Exploring the Power and Versatility of NAND Gates in Digital Logic Circuits](https://tech.lukehjo.dev/p/exploring-the-power-and-versatility) -  📚
+ - [Different form factors in the technology landscape.](https://tech.lukehjo.dev/p/different-form-factors-in-the-technology) -  🖥️
+ - [Logical Operations in Computer Science and Digital Electronics](https://tech.lukehjo.dev/p/logical-operations-in-computer-science) -  💡
+ - [NASA&#39;s Developer Rules](https://tech.lukehjo.dev/p/nasas-developer-rules) -  🔧<!-- BLOG-POST-LIST:END -->
 
 Check out [my blog](https://tech.lukehjo.dev) for more articles and insights!
 
