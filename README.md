@@ -143,7 +143,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 #### 🔧 *c. Assembly Languages:*
 - `Assembly i386` 📚
 - `Assembly Intel64 (Intel Syntax)` 🖥️
-- `Assembly MIPS` 🧩
 - `Assembly ARM64 (ARMv8)` 💪
 - `Assembly LC3` 🧠
 
@@ -163,7 +162,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `CSV` 📊
 - `GraphQL` 🔗
 - `SQL` 🗄️
-- `WebAssembly` 🧩
 - `LaTeX` 📜
 
 #### 📜 *e. Scripting and Query Languages:*
@@ -221,7 +219,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 #### 🔧 *c. Assembly Languages:*
 ![Assembly i386](https://img.shields.io/badge/Assembly%20i386-000000?style=for-the-badge&logo=assembly&logoColor=white)
 ![Assembly Intel64 (Intel Syntax)](https://img.shields.io/badge/Assembly%20Intel64%20(Intel%20Syntax)-000000?style=for-the-badge&logo=assembly&logoColor=white)
-![Assembly MIPS](https://img.shields.io/badge/Assembly%20MIPS-000000?style=for-the-badge&logo=assembly&logoColor=white)
 ![Assembly ARM64 (ARMv8)](https://img.shields.io/badge/Assembly%20ARM64%20(ARMv8)-000000?style=for-the-badge&logo=assembly&logoColor=white)
 ![Assembly LC3](https://img.shields.io/badge/Assembly%20LC3-000000?style=for-the-badge&logo=assembly&logoColor=white)
 
@@ -240,7 +237,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![CSV](https://img.shields.io/badge/CSV-000000?style=for-the-badge&logo=csv&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 #### 📜 *e. Scripting and Query Languages:*
