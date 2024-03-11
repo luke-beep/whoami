@@ -108,7 +108,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `C++` 🧩
 - `C#` 🛡️
 - `C` 🧠
-- `PHP` 🐘
 - `Ruby` 💎
 - `Go` 🏃
 - `Swift` 🐦
@@ -121,6 +120,7 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `Elixir` 💧
 - `Zig` 🔮
 - `Smalltalk` 💬
+- `Gleam` ⭐
 
 <details>
 <summary>🔍 Click to explore more of my Programming Skills!</summary>
@@ -163,6 +163,7 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `GraphQL` 🔗
 - `SQL` 🗄️
 - `LaTeX` 📜
+- `PHP` 🐘
 
 #### 📜 *e. Scripting and Query Languages:*
 - `PowerShell` 💪
@@ -187,7 +188,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -200,6 +200,7 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-002B5C?style=for-the-badge&logo=zig&logoColor=white)
 ![Smalltalk](https://img.shields.io/badge/Smalltalk-59666C?style=for-the-badge&logo=smalltalk&logoColor=white)
+![Gleam](https://img.shields.io/badge/GLEAM-f1a6e6?style=for-the-badge&logo=star)
 
 #### 💻 *b. Specialized or System Programming Languages:*
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -238,6 +239,7 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### 📜 *e. Scripting and Query Languages:*
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
