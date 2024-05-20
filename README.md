@@ -29,7 +29,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="assets/GitHubUnwrapped.gif" alt="My Github profile" />
+  <img src="assets/LukeHjo.gif" alt="My Github profile" />
 </p>
 
 ---
