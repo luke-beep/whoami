@@ -799,8 +799,8 @@ These themes and fonts not only enhance the visual aspect of my development setu
  - [What is a bootloader?](https://tech.lukehjo.dev/p/what-is-a-bootloader) -  📚
  - [How can Intel ME be malicious?](https://tech.lukehjo.dev/p/how-can-intel-me-be-malicious) -  🖥️
  - [Understanding the Assembly family and the x86_64 Architecture](https://tech.lukehjo.dev/p/understanding-the-assembly-family) -  💡
- - [Ada: The Language and Legacy of Ada Lovelace](https://tech.lukehjo.dev/p/ada-the-language-and-legacy-of-ada) -  🔧
- - [Exploring the Power and Versatility of NAND Gates in Digital Logic Circuits](https://tech.lukehjo.dev/p/exploring-the-power-and-versatility) -  🌐<!-- BLOG-POST-LIST:END -->
+ - [Exploring the Power and Versatility of NAND Gates in Digital Logic Circuits](https://tech.lukehjo.dev/p/exploring-the-power-and-versatility) -  🔧
+ - [Different form factors in the technology landscape.](https://tech.lukehjo.dev/p/different-form-factors-in-the-technology) -  🌐<!-- BLOG-POST-LIST:END -->
 
 Check out [my blog](https://tech.lukehjo.dev) for more articles and insights!
 
