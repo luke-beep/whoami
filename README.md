@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/luke-beep/assets/blob/main/Blank-Nord.png?raw=true');]{x0000}$}
-```
-
 <h3 align="center" style="font-weight: bold;">Hello!👋 My name is Azrael</h3>
 <p align="center">
   <a href="https://dev.to/LukeHjo">
@@ -1101,3 +1097,7 @@ Naming myself **Azrael** is more than a symbolic gesture; it is a profound commi
 **<div align="center" id="footer">© 2024 LukeHjo. All rights reserved. <div>**
 <br>
 <div align="right"><a href="#">(Back to top)</a></div>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/luke-beep/assets/blob/main/Blank-Nord.png?raw=true');]{x0000}$}
+```
