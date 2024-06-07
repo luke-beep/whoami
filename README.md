@@ -1099,5 +1099,5 @@ Naming myself **Azrael** is more than a symbolic gesture; it is a profound commi
 <div align="right"><a href="#">(Back to top)</a></div>
 
 ```math
-\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://shorturl.at/Dq2M1');]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://61b1-2001-9b1-10d-15c-00-5e5c.ngrok-free.app/nord');]{x0000}$}
 ```
