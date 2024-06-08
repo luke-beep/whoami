@@ -1073,7 +1073,3 @@ Feel free to reach out for any inquiries or just to say hi!
 **<div align="center" id="footer">© 2024 LukeHjo. All rights reserved. <div>**
 <br>
 <div align="right"><a href="#">(Back to top)</a></div>
-
-```math
-\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/luke-beep/assets/main/Blank-Nord.png');]{x0000}$}
-```
