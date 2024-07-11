@@ -661,15 +661,6 @@ My interests in technology are broad and ever-evolving, reflecting my enthusiasm
 <details>
 <summary>🔍 Click to explore more of my interests!</summary>
 
-#### **Data Science** 📊
-> Engaging in data mining and analysis, uncovering insights and trends from vast datasets.
-
-#### **Data Visualization** 📈
-> Creating intuitive visual representations of data to make complex information accessible and understandable.
-
-#### **Web Development** 💻
-> Developing web applications using technologies like ASP.NET Core, React, and Node.js, focusing on both frontend and backend development.
-
 #### **Cybersecurity** 🔒
 > Exploring both offensive and defensive aspects of cybersecurity, understanding vulnerabilities, and developing robust security measures.
 
@@ -679,14 +670,8 @@ My interests in technology are broad and ever-evolving, reflecting my enthusiasm
 #### **Quantum Computing** ⚛️
 > Intrigued by the potential of quantum computing to revolutionize various fields, including cryptography and complex problem-solving.
 
-#### **Blockchain** 🌐
-> Interested in blockchain technology for its applications beyond cryptocurrencies, exploring its use in securing digital transactions and decentralizing systems.
-
 #### **Internet of Things (IoT)** 📱
 > Experimenting with IoT devices and systems, integrating them into everyday life for enhanced connectivity and automation.
-
-#### **Cloud Computing** ☁️
-> Utilizing cloud platforms for scalable and efficient computing resources, exploring cloud-based solutions for various applications.
 
 #### **DevOps** 🛠️
 > Implementing DevOps practices for streamlined development and operations, focusing on automation, CI/CD, and efficient workflows.
@@ -714,9 +699,6 @@ My interests in technology are broad and ever-evolving, reflecting my enthusiasm
 
 #### **Computer Hardware** 🖥️
 > Interested in the workings of CPUs, GPUs, and RAM, understanding their roles in computing performance.
-
-#### **Computer Software** 👨‍💻
-> Using various IDEs and text editors, continuously exploring new tools and technologies to enhance software development; related to DevEx.
 
 #### **Computer Engineering** ⚡
 > Bridging the gap between electrical engineering and computer science, focusing on the hardware aspect of computing.
