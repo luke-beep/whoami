@@ -114,7 +114,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `Kotlin` 📱
 - `Dart` 🎯
 - `R` 🔢
-- `Haskell` 🧙‍♂️
 - `Objective-C` 🍏
 - `COBOL` 🏢
 - `Elixir` 💧
@@ -132,7 +131,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `Dart` 🎯
 - `Lua` 🌙
 - `Perl` 🐪
-- `Haskell` 🧙‍♂️
 - `F#` 🔢
 - `Julia` 📈
 - `Fortran` 🚀
@@ -141,7 +139,7 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `JavaScript` 🌟
 
 #### 🔧 *c. Assembly Languages:*
-- `Assembly i386` 📚
+- `Assembly i386/i686` 📚
 - `Assembly Intel64 (Intel Syntax)` 🖥️
 - `Assembly ARM64 (ARMv8)` 💪
 - `Assembly LC3` 🧠
@@ -194,7 +192,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective--C-000000?style=for-the-badge&logo=objective-c&logoColor=white)
 ![COBOL](https://img.shields.io/badge/COBOL-1572B6?style=for-the-badge&logo=ibm&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
@@ -209,7 +206,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![F#](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=f-sharp&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
@@ -218,7 +214,7 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### 🔧 *c. Assembly Languages:*
-![Assembly i386](https://img.shields.io/badge/Assembly%20i386-000000?style=for-the-badge&logo=assembly&logoColor=white)
+![Assembly i386/i686](https://img.shields.io/badge/Assembly%20i386-000000?style=for-the-badge&logo=assembly&logoColor=white)
 ![Assembly Intel64 (Intel Syntax)](https://img.shields.io/badge/Assembly%20Intel64%20(Intel%20Syntax)-000000?style=for-the-badge&logo=assembly&logoColor=white)
 ![Assembly ARM64 (ARMv8)](https://img.shields.io/badge/Assembly%20ARM64%20(ARMv8)-000000?style=for-the-badge&logo=assembly&logoColor=white)
 ![Assembly LC3](https://img.shields.io/badge/Assembly%20LC3-000000?style=for-the-badge&logo=assembly&logoColor=white)
