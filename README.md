@@ -422,11 +422,8 @@ I'm particularly fascinated by the power of data 📊 in transforming insights i
   - `Azure Machine Learning Service`: A cloud service for training, deploying, automated machine learning, and tracking machine learning models. 🌐
   - `Azure Databricks`: An Apache Spark-based analytics service optimized for Azure. ⚡
   - `Azure Synapse Analytics`: An analytics service that brings together enterprise data warehousing and Big Data analytics. 💾
-  - `Azure Cognitive Services`: A collection of APIs that use AI to solve complex problems (like vision, speech, language, decision, etc.). 🧠
   - `Azure Data Lake Storage`: Highly scalable data storage and analytics service. 🗄️
-  - `Azure HDInsight`: A cloud service that makes it easy to process massive amounts of data with Hadoop, Spark, Hive, LLAP, Kafka, Storm, R, and more. 📚
-  - `Azure SQL Data Warehouse`: A cloud-based Enterprise Data Warehouse (EDW) that uses Massively Parallel Processing (MPP) to quickly run complex queries across large sets of data. 🏢
-
+  - `Azure HDInsight`: A cloud service that makes it easy to process massive amounts of data with Hadoop, Spark, Hive, LLAP, Kafka, Storm, R, and more. 
 
 </details>
 
@@ -663,9 +660,6 @@ My interests in technology are broad and ever-evolving, reflecting my enthusiasm
 
 <details>
 <summary>🔍 Click to explore more of my interests!</summary>
-
-#### **Machine Learning (ML)** 🤖 & **Artificial Intelligence (AI)** 🧠
-> Diving into the realms of ML and AI, exploring their potential to solve complex problems and enhance human capabilities.
 
 #### **Data Science** 📊
 > Engaging in data mining and analysis, uncovering insights and trends from vast datasets.
