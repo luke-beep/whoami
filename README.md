@@ -77,10 +77,7 @@ Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ dri
 
 #### **Future Aspirations** 🌱
 > Looking ahead, I aim to contribute to *open-source* projects and *tech communities* more actively. I believe in the power of collaboration and open knowledge sharing 🤝 to drive innovation in the tech industry.
-
-#### **Tech Blogging** ✍️
-> I regularly write on my tech blog, covering topics from latest tech trends to deep dives into coding challenges.
-
+> 
 </details>
 
 ---
