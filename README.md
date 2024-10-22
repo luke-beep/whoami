@@ -49,7 +49,7 @@
 
 ### 📝 About Me
 
-Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ driven by a deep curiosity about how **technology** 🚀 can be utilized to solve real-world problems. With a background in both _computer science_ 👨‍💻 and _programming_, I find myself at the center of coding and creativity, where every line of code is a step towards innovation.
+Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ driven by a deep curiosity about how **technology** 🚀 can be utilized to solve real-world problems.
 
 #### **Philosophy** 💡
 
@@ -71,7 +71,7 @@ Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ dri
 
 ### 💻 Programming Languages
 
-As a technology enthusiast and developer, my expertise spans across a wide range of programming languages. Each language I've learned has significantly contributed to my skill set, allowing me to approach various challenges in software development, system programming, embedded programming, and more. This list represents the programming languages I use to bring ideas to life and solve complex problems in the world of technology.
+As a technology enthusiast and developer, my expertise spans across a wide range of programming languages & technologies. Each language I've learned has significantly contributed to my skill set, allowing me to approach various challenges in software development, system programming, embedded programming, and more. This list represents the programming languages I use to bring ideas to life and solve complex problems in the world of technology.
 
 #### 🛠️ _a. General-Purpose Programming Languages:_
 
@@ -383,13 +383,13 @@ My toolkit includes a variety of tools and technologies that enhance my developm
 
 #### **Development & IDE Tools:**
 
-- `Visual Studio Code`, `CLion`, `PyCharm`, `WebStorm`, `Visual Studio 2022`, `RustRover`, `RubyMine`, `GoLand`, `Rider` 💻
+- `Visual Studio Code / Codium`, `CLion`, `PyCharm`, `Visual Studio 2022`, `RustRover` 💻
 - Text editors like `Vim` and `Neovim` ✏️
 
 #### **Testing & Quality Assurance:**
 
-- `Selenium`, `JUnit`, `Jest` for automated testing 🧪
-- `NUnit`, `Postman` for API testing ✅
+- `Selenium`, `Jest` for automated testing 🧪
+- `NUnit`, `Insomnia`, `Swagger` for API testing ✅
 
 ### **Networking & Security:**
 
