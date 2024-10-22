@@ -105,7 +105,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `Assembly i386/i686` 📚
 - `Assembly Intel64 (Intel Syntax)` 🖥️
 - `Assembly ARM64 (ARMv8)` 💪
-- `Assembly LC3` 🧠
 
 #### 🌍 _d. Web Development and Markup Languages:_
 
@@ -170,7 +169,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 ![Assembly i386/i686](https://img.shields.io/badge/Assembly%20i386-000000?style=for-the-badge&logo=assembly&logoColor=white)
 ![Assembly Intel64 (Intel Syntax)](<https://img.shields.io/badge/Assembly%20Intel64%20(Intel%20Syntax)-000000?style=for-the-badge&logo=assembly&logoColor=white>)
 ![Assembly ARM64 (ARMv8)](<https://img.shields.io/badge/Assembly%20ARM64%20(ARMv8)-000000?style=for-the-badge&logo=assembly&logoColor=white>)
-![Assembly LC3](https://img.shields.io/badge/Assembly%20LC3-000000?style=for-the-badge&logo=assembly&logoColor=white)
 
 #### 🌍 _d. Web Development and Markup Languages:_
 
@@ -367,7 +365,7 @@ My toolkit includes a variety of tools and technologies that enhance my developm
 
 #### **CI/CD & Automation:**
 
-- `Jenkins`, `Travis CI`, `CircleCI`, `GitHub Actions` for CI/CD pipelines 🚀
+- `Jenkins`, `Travis CI`, `GitHub Actions` for CI/CD pipelines 🚀
 - Configuration management with `Ansible`, `Terraform`, `CloudFormation`, `Chef` 🔧
 
 #### **Monitoring & Logging:**
@@ -377,12 +375,12 @@ My toolkit includes a variety of tools and technologies that enhance my developm
 
 #### **Database Management:**
 
-- SQL and NoSQL databases like `MySQL`, `PostgreSQL`, `MongoDB`, `Redis` 🗄️
+- SQL and NoSQL databases like `MySQL`, `PostgreSQL`, `MongoDB` 🗄️
 - `Microsoft SQL Server`, `SQLite`, `Cassandra` 💾
 
 #### **Development & IDE Tools:**
 
-- `Visual Studio Code / Codium`, `CLion`, `PyCharm`, `Visual Studio 2022`, `RustRover` 💻
+- `Visual Studio Code / Codium`, `CLion`, `Visual Studio 2022`, `RustRover` 💻
 - Text editors like `Vim` and `Neovim` ✏️
 
 #### **Testing & Quality Assurance:**
@@ -393,7 +391,7 @@ My toolkit includes a variety of tools and technologies that enhance my developm
 ### **Networking & Security:**
 
 - `Wireshark`, `OpenSSL`, `Nmap` for network analysis 🔍
-- Cybersecurity tools like `Metasploit`, `Nessus` 🔒
+- Cybersecurity tools like `Havoc` 🔒
 
 #### **Data Analysis & Business Intelligence:**
 
@@ -565,7 +563,7 @@ Each of these projects represents a part of my journey in software development, 
 
 ### 💡 Interests & Passions
 
-My interests in technology are broad and continous, reflecting my enthusiasm for the field's dynamically changing nature. Here's a deeper look into areas that I enjoy researching.
+My interests in technology are broad and continous, showcasing enthusiasm for the field's dynamically changing nature. Here's a deeper look into areas that I enjoy researching.
 
 #### **Technology Trends** 🌐
 
@@ -584,11 +582,11 @@ My interests in technology are broad and continous, reflecting my enthusiasm for
 
 #### **Cybersecurity** 🔒
 
-> Exploring both offensive and defensive aspects of cybersecurity, understanding vulnerabilities, and developing robust security measures.
+> Exploring both offensive and defensive aspects of cybersecurity, understanding vulnerabilities, and developing long-lasting security measures.
 
 #### **Cryptography** 🔐
 
-> Fascinated by the science of encryption and decryption, ensuring data security and privacy.
+> The science behind encryption and decryption, seeking data security and privacy.
 
 #### **Quantum Computing** ⚛️
 
@@ -620,7 +618,7 @@ My interests in technology are broad and continous, reflecting my enthusiasm for
 
 #### **Operating Systems** 💻
 
-> Proficient in operating systems like Debian, Windows 11, and macOS, understanding their architecture and capabilities.
+> Proficient in operating systems bases (kernel buildups) like Linux, Windows NT, BSD and Mach, understanding their architecture and capabilities.
 
 #### **Computer Architecture** 🏛️
 
@@ -632,7 +630,7 @@ My interests in technology are broad and continous, reflecting my enthusiasm for
 
 #### **Computer Hardware** 🖥️
 
-> Interested in the workings of CPUs, GPUs, and RAM, understanding their roles in computing performance.
+> Interested in the workings of CPUs, GPUs, and RAM, understanding their roles in specifically high-computing performance.
 
 #### **Computer Engineering** ⚡
 
@@ -705,7 +703,7 @@ I have a particular interest for themes and fonts that enhance the coding experi
 
 - **[Monaspace](https://monaspace.githubnext.com/)** 🖋️: A beautifully designed, modern, and highly customizable monospace font. It's perfect for coding due to its clarity and readability, which makes focusing on complex code easier.
 
-These themes and fonts not only enhance the visual aspect of my development setup but also contribute to a more comfortable and productive coding experience.
+These themes and fonts contribute to a more comfortable and productive technological experience.
 
 ---
 
