@@ -117,7 +117,6 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 - `YAML` 🗃️
 - `JSON` 📊
 - `BSON` 🗂️
-- `ASON` 🗂️
 - `XML` 📰
 - `TOML` 📑
 - `INI` 🔧
@@ -557,11 +556,7 @@ I have worked on a variety of projects that reflect my skills and interests in t
 
 #### **[qLiteVM](https://github.com/luke-beep/qLiteVM)** 💻
 
-> A streamlined virtual machine solution for Windows, focusing on simplicity and ease of use.
-
-#### **[HoneCTRL](https://github.com/luke-beep/HoneCTRL)** ⚙️
-
-> An innovative application that allows users to customize and enhance the functionality of Windows 10 & 11.
+> A streamlined LC3 virtual machine for Windows, focusing on base integration. 
 
 </details>
 Each of these projects represents a part of my journey in software development, showcasing my passion for creating tools and applications that enhance user experience and productivity.
