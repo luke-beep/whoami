@@ -516,7 +516,6 @@ I have worked on a variety of projects that reflect my skills and interests in t
 > A streamlined LC3 virtual machine for Windows, focusing on base integration. 
 
 </details>
-Each of these projects represents a part of my journey in software development, showcasing my passion for creating tools and applications that enhance user experience and productivity.
 
 ---
 
