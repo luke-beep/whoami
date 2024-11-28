@@ -79,7 +79,6 @@ I'm a developer with a deep love for technology and problem-solving. Over the ye
 - `Go` 🏃
 - `R` 🔢
 - `Zig` 🔮
-- `Smalltalk` 💬
 - `Gleam` ⭐
 
 <details>
@@ -146,7 +145,6 @@ I'm a developer with a deep love for technology and problem-solving. Over the ye
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-002B5C?style=for-the-badge&logo=zig&logoColor=white)
-![Smalltalk](https://img.shields.io/badge/Smalltalk-59666C?style=for-the-badge&logo=smalltalk&logoColor=white)
 ![Gleam](https://img.shields.io/badge/GLEAM-f1a6e6?style=for-the-badge&logo=star)
 
 #### 💻 _b. Specialized or System Programming Languages:_
