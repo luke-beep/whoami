@@ -524,24 +524,24 @@ Each of these projects represents a part of my journey in software development, 
 
 My interests in technology are all over the place, and I’m always curious to learn more. I love diving into how things work and keeping up with how the field is constantly evolving. Here are a few areas I really enjoy exploring. 
 
-#### **Open Source Contribution** 👐
-#### **Hardware-to-Software Interfacing** 🔌
-#### **Cryptography** 🔐
-#### **Quantum Computing** ⚛️
-#### **DevOps** 🛠️
-#### **Developer Experience (DevEx)** 🎨
-#### **Automation (CI/CD)** ⚙️
-#### **Scripting** 📜
+- **Open Source Contribution** 👐
+- **Hardware-to-Software Interfacing** 🔌
+- **Cryptography** 🔐
+- **Quantum Computing** ⚛️
+- **DevOps** 🛠️
+- **Developer Experience (DevEx)** 🎨
+- **Automation (CI/CD)** ⚙️
+- **Scripting** 📜
 
 <details>
 <summary>🔍 Click to explore more of my interests!</summary>
 
-#### **Kernel Development** 💽
-#### **Operating Systems** 💻
-#### **Computer Architecture** 🏛️
-#### **Computer Networking** 🌍
-#### **Computer Hardware** 🖥️
-#### **Electrical Engineering** ⚡
+- **Kernel Development** 💽
+- **Operating Systems** 💻
+- **Computer Architecture** 🏛️
+- **Computer Networking** 🌍
+- **Computer Hardware** 🖥️
+- **Electrical Engineering** ⚡
 
 </details>
 
