@@ -51,10 +51,6 @@
 
 Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ driven by a deep curiosity about how **technology** 🚀 can be utilized to solve real-world problems.
 
-#### **Philosophy** 💡
-
-> I believe that software development is not just about writing code; it's about crafting solutions that have a **lasting impact**. This philosophy drives me to continually _learn_ 📚 and _evolve_ 🌱, ensuring that my work not only solves problems but also contributes positively to the community.
-
 ---
 
 ### 📊 GitHub Stats
@@ -71,7 +67,7 @@ Hello, I'm **Azrael** (LukeHjo), a passionate **software developer** 🖥️ dri
 
 ### 💻 Programming Languages
 
-As a technology enthusiast and developer, my expertise spans across a wide range of programming languages & technologies. Each language I've learned has significantly contributed to my skill set, allowing me to approach various challenges in software development, system programming, embedded programming, and more. This list represents the programming languages I use to bring ideas to life and solve complex problems in the world of technology.
+I'm a developer with a deep love for technology and problem-solving. Over the years, I’ve worked with a variety of programming languages, each one adding something unique to my toolbox. Whether I’m building software, diving into system programming, or tinkering with embedded projects, these languages are how I turn ideas into reality and make _relatively_ cool things happen.
 
 #### 🛠️ _a. General-Purpose Programming Languages:_
 
@@ -206,18 +202,15 @@ As a technology enthusiast and developer, my expertise spans across a wide range
 
 ### 🛠️ Frameworks & Technologies
 
-My experience spans a diverse range of frameworks and technologies, enabling me to build robust and scalable applications across various domains.
+I’ve had the chance to work with all kinds of frameworks and technologies, which has helped me create solid, scalable applications that solve real-world problems across different domains.
 
 #### 🌍 Web Development:
 
 - `React`
 - `Node.js`
-- `Django`
 - `Angular`
-- `Vue.js`
 - `Express.js`
 - `Flask`
-- `Laravel`
 - `ASP.NET Core`
 - `Svelte`
 - `Next.js`
@@ -225,18 +218,9 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 - `Symfony`
 - `CakePHP`
 - `Bootstrap`
-- `Materialize`
 
 <details>
 <summary>🔍 Click to explore more of my Frameworks!</summary>
-
-#### 📱 Mobile App Development:
-
-- `React Native`
-- `Flutter`
-- `Xamarin`
-- `Swift UI`
-- `.NET MAUI`
 
 #### 🎮 Game Development:
 
@@ -244,7 +228,6 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 - `Unreal Engine`
 - `Godot`
 - `MonoGame`
-- `Three.js`
 
 #### 🔗 Backend & API Development:
 
@@ -275,12 +258,9 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -288,15 +268,6 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Materialize](https://img.shields.io/badge/Materialize-EE6E73?style=for-the-badge&logo=materialize&logoColor=white)
-
-#### 📱 Mobile App Development:
-
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-![Swift UI](https://img.shields.io/badge/Swift%20UI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 #### 🎮 Game Development:
 
@@ -304,7 +275,6 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![MonoGame](https://img.shields.io/badge/MonoGame-000000?style=for-the-badge&logo=monogame&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 #### 🔗 Backend & API Development:
 
@@ -326,22 +296,13 @@ My experience spans a diverse range of frameworks and technologies, enabling me 
 ![WinUI 2](https://img.shields.io/badge/WinUI%202-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![WinUI 3](https://img.shields.io/badge/WinUI%203-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-#### 🛠️ Other Specialized Frameworks:
-
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-FF652F?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache&logoColor=white)
-
 </details>
 
 ---
 
 ### 🧰 Tools & Tech Stack
 
-My toolkit includes a variety of tools and technologies that enhance my development workflow and project management.
+I rely on a mix of tools and technologies that streamline my development process and help me stay on top of project management & versioning control. 
 
 #### **Version Control & Collaboration:**
 
@@ -563,82 +524,26 @@ Each of these projects represents a part of my journey in software development, 
 
 ### 💡 Interests & Passions
 
-My interests in technology are broad and continous, showcasing enthusiasm for the field's dynamically changing nature. Here's a deeper look into areas that I enjoy researching.
-
-#### **Technology Trends** 🌐
-
-> Staying ahead of the latest advancements in tech, from emerging software to innovative hardware solutions.
+My interests in technology are all over the place, and I’m always curious to learn more. I love diving into how things work and keeping up with how the field is constantly evolving. Here are a few areas I really enjoy exploring. 
 
 #### **Open Source Contribution** 👐
-
-> Actively contributing to open-source projects, believing in the collaborative power of community-driven development.
-
 #### **Hardware-to-Software Interfacing** 🔌
-
-> Exploring the integration of hardware and software, particularly interested in IoT and embedded systems.
+#### **Cryptography** 🔐
+#### **Quantum Computing** ⚛️
+#### **DevOps** 🛠️
+#### **Developer Experience (DevEx)** 🎨
+#### **Automation (CI/CD)** ⚙️
+#### **Scripting** 📜
 
 <details>
 <summary>🔍 Click to explore more of my interests!</summary>
 
-#### **Cybersecurity** 🔒
-
-> Exploring both offensive and defensive aspects of cybersecurity, understanding vulnerabilities, and developing long-lasting security measures.
-
-#### **Cryptography** 🔐
-
-> The science behind encryption and decryption, seeking data security and privacy.
-
-#### **Quantum Computing** ⚛️
-
-> Intrigued by the potential of quantum computing to revolutionize various fields, including cryptography and complex problem-solving.
-
-#### **Internet of Things (IoT)** 📱
-
-> Experimenting with IoT devices and systems, integrating them into everyday life for enhanced connectivity and automation.
-
-#### **DevOps** 🛠️
-
-> Implementing DevOps practices for streamlined development and operations, focusing on automation, CI/CD, and efficient workflows.
-
-#### **Developer Experience (DevEx)** 🎨
-
-> Passionate about improving the developer experience through better tools, environments, and practices.
-
-#### **Automation (CI/CD)** ⚙️
-
-> Automation in software development, particularly in continuous integration and continuous deployment; also known as CI/CD.
-
-#### **Scripting** 📜
-
-> Writing scripts in Bash, PowerShell, and other languages to automate tasks and processes.
-
 #### **Kernel Development** 💽
-
-> Diving into the core of operating systems by exploring various kernels like Linux, Windows NT, and Mach.
-
 #### **Operating Systems** 💻
-
-> Proficient in operating systems bases (kernel buildups) like Linux, Windows NT, BSD and Mach, understanding their architecture and capabilities.
-
 #### **Computer Architecture** 🏛️
-
-> Studying architectures like x86, ARM, and MIPS, understanding how computer systems are fundamentally built and operated.
-
 #### **Computer Networking** 🌍
-
-> Exploring TCP/IP, OSI models, and other networking concepts, understanding how data is transmitted and managed across networks.
-
 #### **Computer Hardware** 🖥️
-
-> Interested in the workings of CPUs, GPUs, and RAM, understanding their roles in specifically high-computing performance.
-
-#### **Computer Engineering** ⚡
-
-> Bridging the gap between electrical engineering and computer science, focusing on the hardware aspect of computing.
-
-#### **Standards** 📏
-
-> Following standards like ISO, IEEE, and ISA, ensuring quality and consistency in technology and engineering.
+#### **Electrical Engineering** ⚡
 
 </details>
 
@@ -654,18 +559,18 @@ I curate various lists on GitHub to organize resources and repositories that I f
 
 #### **[Software Development](https://github.com/stars/luke-beep/lists/software-development)** 💻
 
-> Repositories related to software development, encompassing tools, libraries, and frameworks that enhance coding efficiency and capabilities.
+> Repositories related to software development, including tools, libraries, and frameworks that enhance coding efficiency and capabilities.
 
 <details>
 <summary>🔍 Click to explore more of my lists!</summary>
 
 #### **[Privacy & Security](https://github.com/stars/luke-beep/lists/privacy-security)** 🔒
 
-> Focused on privacy and security-related repositories, this list includes tools and resources for securing digital assets and maintaining privacy.
+> Focused on privacy and security-related repositories, this list includes tools and resources for maintaining privacy.
 
 #### **[Microsoft](https://github.com/stars/luke-beep/lists/microsoft)** ⚙️
 
-> A compilation of repositories related to Microsoft services and products, highlighting my interest in Microsoft technologies.
+> A compilation of repositories related to Microsoft services and products.
 
 #### **[Modifications](https://github.com/stars/luke-beep/lists/modifications)** 🔧
 
@@ -689,19 +594,17 @@ I curate various lists on GitHub to organize resources and repositories that I f
 
 </details>
 
-Each list reflects my areas of interest and serves as a curated guide for anyone exploring similar topics.
-
 ---
 
 ### ⭐ Favorite Themes & Fonts
 
 I have a particular interest for themes and fonts that enhance the coding experience, both aesthetically and functionally.
 
-- **[Nord Theme](https://www.nordtheme.com/)** ❄️: A cool, nordic-blue theme that provides a soothing backdrop for long coding sessions. Its subtle and unobtrusive color palette helps reduce eye strain during extended periods of work.
+- **[Nord Theme](https://www.nordtheme.com/)** ❄️: A cool, nordic-blue theme that provides a soothing backdrop.
 
-- **[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)** 🤓: This collection of fonts perfectly blends functionality with style, offering a wide range of choices for developers. The fonts are designed to be visually appealing while also being practical for coding environments.
+- **[Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)** 🤓: This collection of fonts perfectly blends functionality with style, offering a wide range of choices.
 
-- **[Monaspace](https://monaspace.githubnext.com/)** 🖋️: A beautifully designed, modern, and highly customizable monospace font. It's perfect for coding due to its clarity and readability, which makes focusing on complex code easier.
+- **[Monaspace](https://monaspace.githubnext.com/)** 🖋️: A beautifully designed, modern, and highly customizable monospace font.
 
 These themes and fonts contribute to a more comfortable and productive technological experience.
 
@@ -709,7 +612,7 @@ These themes and fonts contribute to a more comfortable and productive technolog
 
 ### 📖 Recommended Books
 
-I'm an active reader, and I enjoy exploring a variety of genres, from fiction to non-fiction. Here are some of my favorite books.
+I love reading and exploring all kinds of genres, from fiction to non-fiction. Here are a few of my favorite books:
 
 #### **[The Art of Computer Programming](https://www.goodreads.com/book/show/112247.The_Art_of_Computer_Programming_Volume_1)** 📖
 
